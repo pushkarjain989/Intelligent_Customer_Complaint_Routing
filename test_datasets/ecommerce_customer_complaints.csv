@@ -1,0 +1,1201 @@
+complaint_id,text,domain,category
+ECOM-1010,Severe shipping delay on order ORD-80284. I paid an extra $24.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1498,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1021,Severe shipping delay on order ORD-61856. I paid an extra $49.50 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1262,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-58629.,E-Commerce,Damaged & Defective Items
+ECOM-2132,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1889,Completely wrong product received! Ordered wireless headphones worth $280.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1870,Received someone else's order! Packing slip inside box ORD-86751 has a different customer name and address in Boston.,E-Commerce,Wrong Item Sent
+ECOM-2134,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1233,"Express delivery promised 2-day delivery for order ORD-32280, but it has been 5 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1576,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1826,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1096,"Driver marked order ORD-66959 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-1493,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1400,Received my electronic order ORD-19835 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1128,Severe shipping delay on order ORD-61049. I paid an extra $65.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2097,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1004,"Driver marked order ORD-13478 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-2119,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1082,My order ORD-58393 was supposed to arrive 48 hours ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1730,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-96154!,E-Commerce,Wrong Item Sent
+ECOM-2070,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1279,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1336,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1260,Received my electronic order ORD-14877 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2015,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1240,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-73335.,E-Commerce,Damaged & Defective Items
+ECOM-1621,Returned parcel ORD-25213 14 days ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-2198,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1828,Received someone else's order! Packing slip inside box ORD-60206 has a different customer name and address in Boston.,E-Commerce,Wrong Item Sent
+ECOM-1150,"Package ORD-19038 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-2043,Unauthorized recurring charge of $49.50 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2153,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1937,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1324,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1892,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-2072,Double charged on my credit card for order ORD-23143. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1094,"Driver marked order ORD-53404 as delivery attempted, but I was sitting right by the front door all day in Chicago!",E-Commerce,Delivery & Shipping Delays
+ECOM-1955,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1372,Opened parcel ORD-29597 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1088,Severe shipping delay on order ORD-97806. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2096,Double charged on my credit card for order ORD-98724. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1629,"I sent back the jacket for order ORD-61849 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1593,"I sent back the jacket for order ORD-60829 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1186,"Express delivery promised 2-day delivery for order ORD-44675, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1521,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2192,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1633,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2061,Charged $89.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1723,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-70960!,E-Commerce,Wrong Item Sent
+ECOM-1598,Customer service deducted a $280.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1860,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1500,Customer service deducted a $149.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1879,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1803,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1041,"Driver marked order ORD-69177 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1698,Where is my money? You cancelled my order ORD-65163 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1425,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1809,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1220,Severe shipping delay on order ORD-40613. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1643,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1031,"Package ORD-75612 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1876,Completely wrong product received! Ordered wireless headphones worth $24.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1255,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2011,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1530,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1457,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1941,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-61497!,E-Commerce,Wrong Item Sent
+ECOM-1285,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1507,"I sent back the jacket for order ORD-79228 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1540,Customer service deducted a $149.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2041,Double charged on my credit card for order ORD-64344. You billed me $149.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1249,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-33021.,E-Commerce,Damaged & Defective Items
+ECOM-2179,Double charged on my credit card for order ORD-11170. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2117,Double charged on my credit card for order ORD-84895. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1790,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-55938!,E-Commerce,Wrong Item Sent
+ECOM-1210,My order ORD-94896 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Boston!,E-Commerce,Delivery & Shipping Delays
+ECOM-1642,Where is my money? You cancelled my order ORD-94575 without my consent and withheld the $149.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1548,Customer service deducted a $280.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1308,Received my electronic order ORD-45665 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1695,Returned parcel ORD-41370 2 weeks ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1428,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1814,Wrong shoe model sent. I paid $280.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1785,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1104,Severe shipping delay on order ORD-98777. I paid an extra $280.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1048,Severe shipping delay on order ORD-56438. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1448,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1375,Received my electronic order ORD-75513 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2184,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1075,"Package ORD-89276 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1215,"Driver marked order ORD-45018 as delivery attempted, but I was sitting right by the front door all day in Seattle!",E-Commerce,Delivery & Shipping Delays
+ECOM-1703,Returned parcel ORD-50620 3 days ago with return tracking number. Where is my refund of $65.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1411,Received my electronic order ORD-27790 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1348,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1696,"Your customer support promised my refund of $280.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2120,Charged $49.50 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1071,"Package ORD-47353 shows delivered by courier in Boston, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1787,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-41194!,E-Commerce,Wrong Item Sent
+ECOM-1131,"Express delivery promised 2-day delivery for order ORD-45774, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1538,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2048,Double charged on my credit card for order ORD-68877. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1333,Received my electronic order ORD-56129 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1486,Returned parcel ORD-21725 14 days ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1557,Where is my money? You cancelled my order ORD-74004 without my consent and withheld the $280.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-2174,Double charged on my credit card for order ORD-92465. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1953,Double charged on my credit card for order ORD-91810. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2162,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1271,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-2146,Unauthorized recurring charge of $280.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1127,"Driver marked order ORD-71069 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1799,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-66534!,E-Commerce,Wrong Item Sent
+ECOM-1383,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1708,Completely wrong product received! Ordered wireless headphones worth $450.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1921,Received someone else's order! Packing slip inside box ORD-78039 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-1117,My order ORD-69829 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Boston!,E-Commerce,Delivery & Shipping Delays
+ECOM-1086,"Express delivery promised 2-day delivery for order ORD-41029, but it has been 5 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1923,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1807,Received someone else's order! Packing slip inside box ORD-20739 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-2138,Double charged on my credit card for order ORD-62041. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1224,"Express delivery promised 2-day delivery for order ORD-63736, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1112,Severe shipping delay on order ORD-90120. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1736,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1600,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1821,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2056,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2084,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1771,Wrong shoe model sent. I paid $65.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1049,My order ORD-98259 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Chicago!,E-Commerce,Delivery & Shipping Delays
+ECOM-1074,"Package ORD-25129 shows delivered by courier in Dallas, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1601,Where is my money? You cancelled my order ORD-59792 without my consent and withheld the $89.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1998,Charged $149.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1607,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1446,The blender I bought for $149.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1035,"Package ORD-41385 shows delivered by courier in Atlanta, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1484,Where is my money? You cancelled my order ORD-30701 without my consent and withheld the $149.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1947,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1364,Opened parcel ORD-45755 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1583,"I sent back the jacket for order ORD-74304 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2193,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,E-Commerce,Technical Anomaly / Outlier
+ECOM-2187,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1217,"Express delivery promised 2-day delivery for order ORD-68529, but it has been 48 hours and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1017,"Express delivery promised 2-day delivery for order ORD-31417, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1564,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1424,Opened parcel ORD-52291 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1346,Received my electronic order ORD-86380 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2080,Charged $49.50 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1884,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1685,Returned parcel ORD-23526 10 days ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1778,Received someone else's order! Packing slip inside box ORD-96787 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-2102,Double charged on my credit card for order ORD-44787. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1666,"I sent back the jacket for order ORD-19898 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1806,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-13373!,E-Commerce,Wrong Item Sent
+ECOM-2059,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1335,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2185,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1287,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1562,"I sent back the jacket for order ORD-12061 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1968,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1229,My order ORD-93066 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Chicago!,E-Commerce,Delivery & Shipping Delays
+ECOM-1522,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1866,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1172,"Express delivery promised 2-day delivery for order ORD-93606, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1053,My order ORD-68082 was supposed to arrive 48 hours ago. Tracking still says pending at sorting hub in Chicago!,E-Commerce,Delivery & Shipping Delays
+ECOM-1951,Double charged on my credit card for order ORD-28111. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1663,"Your customer support promised my refund of $65.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1293,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1980,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1623,"I sent back the jacket for order ORD-55652 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2030,Double charged on my credit card for order ORD-15610. You billed me $280.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1497,"Your customer support promised my refund of $24.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1481,Returned parcel ORD-97796 48 hours ago with return tracking number. Where is my refund of $450.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1819,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1278,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-57453.,E-Commerce,Damaged & Defective Items
+ECOM-1634,"I sent back the jacket for order ORD-79168 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1588,Returned parcel ORD-50405 2 weeks ago with return tracking number. Where is my refund of $65.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1651,"I sent back the jacket for order ORD-82053 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1234,Severe shipping delay on order ORD-91226. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2034,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2151,Charged $89.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1566,"Your customer support promised my refund of $65.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1142,"Express delivery promised 2-day delivery for order ORD-72070, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1406,Received my electronic order ORD-85225 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1258,Opened parcel ORD-94889 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1443,Opened parcel ORD-75308 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2100,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1824,Received someone else's order! Packing slip inside box ORD-78116 has a different customer name and address in New York.,E-Commerce,Wrong Item Sent
+ECOM-1420,The blender I bought for $149.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1032,"Package ORD-93748 shows delivered by courier in Atlanta, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1612,"I sent back the jacket for order ORD-59412 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1525,Customer service deducted a $24.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1681,Returned parcel ORD-27393 48 hours ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1767,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-42487!,E-Commerce,Wrong Item Sent
+ECOM-1628,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1118,"Driver marked order ORD-83259 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-2190,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1338,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1810,Received someone else's order! Packing slip inside box ORD-34455 has a different customer name and address in New York.,E-Commerce,Wrong Item Sent
+ECOM-1345,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-47243.,E-Commerce,Damaged & Defective Items
+ECOM-1624,"I sent back the jacket for order ORD-51800 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2039,Why was I billed an unexpected international transaction fee of $49.50 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2099,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1221,Severe shipping delay on order ORD-59968. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2092,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1201,"Driver marked order ORD-14809 as delivery attempted, but I was sitting right by the front door all day in Chicago!",E-Commerce,Delivery & Shipping Delays
+ECOM-1359,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-35430.,E-Commerce,Damaged & Defective Items
+ECOM-1526,"I sent back the jacket for order ORD-90599 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1746,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1046,"Driver marked order ORD-27342 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-2108,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2020,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1318,Received my electronic order ORD-67176 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1244,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-47512.,E-Commerce,Damaged & Defective Items
+ECOM-1945,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1732,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-28661!,E-Commerce,Wrong Item Sent
+ECOM-1470,Opened parcel ORD-70249 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1556,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1223,My order ORD-67711 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in Boston!,E-Commerce,Delivery & Shipping Delays
+ECOM-1833,Received someone else's order! Packing slip inside box ORD-50756 has a different customer name and address in Boston.,E-Commerce,Wrong Item Sent
+ECOM-1515,Returned parcel ORD-38560 48 hours ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1617,Customer service deducted a $24.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1175,Severe shipping delay on order ORD-24953. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1797,Completely wrong product received! Ordered wireless headphones worth $280.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1581,Where is my money? You cancelled my order ORD-90460 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1885,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-15992!,E-Commerce,Wrong Item Sent
+ECOM-1908,Received someone else's order! Packing slip inside box ORD-57214 has a different customer name and address in Los Angeles.,E-Commerce,Wrong Item Sent
+ECOM-1178,My order ORD-83147 was supposed to arrive 2 weeks ago. Tracking still says pending at sorting hub in Atlanta!,E-Commerce,Delivery & Shipping Delays
+ECOM-1817,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-61747!,E-Commerce,Wrong Item Sent
+ECOM-1840,Completely wrong product received! Ordered wireless headphones worth $24.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1303,Opened parcel ORD-92991 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1804,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-57294!,E-Commerce,Wrong Item Sent
+ECOM-1818,Wrong shoe model sent. I paid $24.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1973,Unauthorized recurring charge of $89.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1979,Double charged on my credit card for order ORD-96944. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2035,Unauthorized recurring charge of $280.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1020,"Package ORD-18675 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-2123,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1724,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-82494!,E-Commerce,Wrong Item Sent
+ECOM-1386,Opened parcel ORD-18270 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1508,Where is my money? You cancelled my order ORD-24707 without my consent and withheld the $280.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1794,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1777,Wrong shoe model sent. I paid $24.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1654,Returned parcel ORD-95678 5 days ago with return tracking number. Where is my refund of $65.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1085,My order ORD-56357 was supposed to arrive 48 hours ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-2116,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1897,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-2013,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1114,Severe shipping delay on order ORD-41979. I paid an extra $65.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1658,Where is my money? You cancelled my order ORD-28249 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1176,My order ORD-85631 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in New York!,E-Commerce,Delivery & Shipping Delays
+ECOM-2060,Double charged on my credit card for order ORD-43360. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1735,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-76247!,E-Commerce,Wrong Item Sent
+ECOM-1532,Customer service deducted a $149.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1228,"Package ORD-39817 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1152,Severe shipping delay on order ORD-30052. I paid an extra $450.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1180,"Driver marked order ORD-66207 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1873,Received someone else's order! Packing slip inside box ORD-64146 has a different customer name and address in Dallas.,E-Commerce,Wrong Item Sent
+ECOM-1911,Received someone else's order! Packing slip inside box ORD-67372 has a different customer name and address in Seattle.,E-Commerce,Wrong Item Sent
+ECOM-1471,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1602,"I sent back the jacket for order ORD-95332 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1027,"Driver marked order ORD-71348 as delivery attempted, but I was sitting right by the front door all day in Seattle!",E-Commerce,Delivery & Shipping Delays
+ECOM-1196,"Driver marked order ORD-95394 as delivery attempted, but I was sitting right by the front door all day in Seattle!",E-Commerce,Delivery & Shipping Delays
+ECOM-1812,Received someone else's order! Packing slip inside box ORD-83956 has a different customer name and address in Dallas.,E-Commerce,Wrong Item Sent
+ECOM-2121,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1915,Completely wrong product received! Ordered wireless headphones worth $149.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1825,Wrong shoe model sent. I paid $24.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1604,Customer service deducted a $89.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1592,Where is my money? You cancelled my order ORD-52523 without my consent and withheld the $89.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-2182,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1766,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1297,Received my electronic order ORD-55890 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1674,Returned parcel ORD-92074 2 weeks ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1815,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-60738!,E-Commerce,Wrong Item Sent
+ECOM-1125,"Express delivery promised 2-day delivery for order ORD-40311, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1606,Customer service deducted a $280.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1072,"Driver marked order ORD-49651 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1597,"I sent back the jacket for order ORD-49289 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2181,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1430,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1940,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1560,"Your customer support promised my refund of $89.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1302,Opened parcel ORD-84228 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1758,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1007,"Package ORD-30379 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1410,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1834,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-39878!,E-Commerce,Wrong Item Sent
+ECOM-2171,Double charged on my credit card for order ORD-60436. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2078,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2017,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1495,Where is my money? You cancelled my order ORD-93719 without my consent and withheld the $280.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1225,Severe shipping delay on order ORD-44737. I paid an extra $450.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1782,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1903,Completely wrong product received! Ordered wireless headphones worth $24.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-2064,Double charged on my credit card for order ORD-51405. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1146,"Driver marked order ORD-98781 as delivery attempted, but I was sitting right by the front door all day in Miami!",E-Commerce,Delivery & Shipping Delays
+ECOM-1098,"Express delivery promised 2-day delivery for order ORD-43386, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1102,"Package ORD-97410 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1164,"Driver marked order ORD-58368 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-1543,Returned parcel ORD-34662 48 hours ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1300,The blender I bought for $450.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1378,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1971,Charged $49.50 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1475,Where is my money? You cancelled my order ORD-45842 without my consent and withheld the $280.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1381,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1917,Wrong shoe model sent. I paid $65.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1682,"I sent back the jacket for order ORD-11217 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1871,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-71674!,E-Commerce,Wrong Item Sent
+ECOM-2052,Unauthorized recurring charge of $24.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2040,Double charged on my credit card for order ORD-30625. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1354,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2008,Charged $450.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1867,Completely wrong product received! Ordered wireless headphones worth $450.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1002,"Driver marked order ORD-21395 as delivery attempted, but I was sitting right by the front door all day in Miami!",E-Commerce,Delivery & Shipping Delays
+ECOM-2000,Unauthorized recurring charge of $89.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1267,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2086,Charged $450.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1546,Where is my money? You cancelled my order ORD-36805 without my consent and withheld the $280.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1394,Received my electronic order ORD-65640 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1105,"Driver marked order ORD-49446 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1653,Returned parcel ORD-67850 48 hours ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1985,Why was I billed an unexpected international transaction fee of $89.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1575,Returned parcel ORD-99709 10 days ago with return tracking number. Where is my refund of $49.50?,E-Commerce,Refund & Return Discrepancies
+ECOM-1904,Wrong shoe model sent. I paid $24.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-2022,Double charged on my credit card for order ORD-57948. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1158,"Express delivery promised 2-day delivery for order ORD-56507, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1340,Opened parcel ORD-15130 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1329,Received my electronic order ORD-33218 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1441,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-2002,Charged $280.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1078,"Package ORD-15778 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-2053,Double charged on my credit card for order ORD-78512. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1478,Returned parcel ORD-55398 2 weeks ago with return tracking number. Where is my refund of $450.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1924,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1415,Opened parcel ORD-25907 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2139,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1047,Severe shipping delay on order ORD-63354. I paid an extra $24.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1595,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1800,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1191,Severe shipping delay on order ORD-45683. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1991,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1401,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1988,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1490,Customer service deducted a $49.50 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1801,Completely wrong product received! Ordered wireless headphones worth $450.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1154,Severe shipping delay on order ORD-87656. I paid an extra $65.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2058,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1786,Wrong shoe model sent. I paid $89.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1707,Returned parcel ORD-69424 48 hours ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1455,Received my electronic order ORD-15938 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1479,"I sent back the jacket for order ORD-38047 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1384,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1139,"Driver marked order ORD-16826 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1016,My order ORD-89840 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1376,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1417,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1059,"Express delivery promised 2-day delivery for order ORD-48890, but it has been 5 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1304,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1772,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1199,My order ORD-31079 was supposed to arrive 10 days ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-1699,"I sent back the jacket for order ORD-19567 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1483,"I sent back the jacket for order ORD-23178 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1935,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1895,Wrong shoe model sent. I paid $49.50 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-2068,Why was I billed an unexpected international transaction fee of $89.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1744,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1398,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-56077.,E-Commerce,Damaged & Defective Items
+ECOM-2127,Charged $280.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1143,"Express delivery promised 2-day delivery for order ORD-70952, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1076,"Package ORD-76244 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1970,Charged $149.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1463,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1399,The blender I bought for $450.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1350,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-76648.,E-Commerce,Damaged & Defective Items
+ECOM-1558,Returned parcel ORD-19742 14 days ago with return tracking number. Where is my refund of $65.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-2154,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1009,"Package ORD-89131 shows delivered by courier in New York, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1573,Customer service deducted a $49.50 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1577,"I sent back the jacket for order ORD-20084 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2161,Unauthorized recurring charge of $450.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1347,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2130,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1289,Received my electronic order ORD-50966 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1416,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-13445.,E-Commerce,Damaged & Defective Items
+ECOM-1458,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1028,My order ORD-99166 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Chicago!,E-Commerce,Delivery & Shipping Delays
+ECOM-1380,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-15706.,E-Commerce,Damaged & Defective Items
+ECOM-1893,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-95664!,E-Commerce,Wrong Item Sent
+ECOM-1680,Returned parcel ORD-22475 3 days ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1171,My order ORD-17146 was supposed to arrive 48 hours ago. Tracking still says pending at sorting hub in Seattle!,E-Commerce,Delivery & Shipping Delays
+ECOM-1274,Opened parcel ORD-24408 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1235,"Driver marked order ORD-28758 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1321,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2016,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1738,Received someone else's order! Packing slip inside box ORD-61505 has a different customer name and address in Los Angeles.,E-Commerce,Wrong Item Sent
+ECOM-1857,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-73142!,E-Commerce,Wrong Item Sent
+ECOM-2027,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1948,Unauthorized recurring charge of $280.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1242,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1245,Opened parcel ORD-91381 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1936,Received someone else's order! Packing slip inside box ORD-69314 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-1882,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1169,"Express delivery promised 2-day delivery for order ORD-48829, but it has been 5 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1447,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-2025,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1854,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1435,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-70875.,E-Commerce,Damaged & Defective Items
+ECOM-1518,"I sent back the jacket for order ORD-33590 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2026,Why was I billed an unexpected international transaction fee of $49.50 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2051,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1569,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1913,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1853,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1058,"Driver marked order ORD-96752 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1553,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2115,Double charged on my credit card for order ORD-75374. You billed me $149.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1519,"I sent back the jacket for order ORD-68790 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1502,Returned parcel ORD-93717 10 days ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1961,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1567,Customer service deducted a $89.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1157,My order ORD-74789 was supposed to arrive 10 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1506,"Your customer support promised my refund of $280.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1914,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1130,"Package ORD-61116 shows delivered by courier in Atlanta, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1831,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1353,Received my electronic order ORD-48770 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1103,"Package ORD-82667 shows delivered by courier in Atlanta, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1327,Opened parcel ORD-40968 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1547,Customer service deducted a $280.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1108,Severe shipping delay on order ORD-32241. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1741,Completely wrong product received! Ordered wireless headphones worth $149.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1412,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-21506.,E-Commerce,Damaged & Defective Items
+ECOM-1754,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-70423!,E-Commerce,Wrong Item Sent
+ECOM-1179,"Driver marked order ORD-59856 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1989,Unauthorized recurring charge of $450.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1846,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1491,Where is my money? You cancelled my order ORD-71344 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1838,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-77537!,E-Commerce,Wrong Item Sent
+ECOM-1835,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2021,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1106,"Package ORD-37549 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1625,Returned parcel ORD-12960 10 days ago with return tracking number. Where is my refund of $450.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1377,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-10205.,E-Commerce,Damaged & Defective Items
+ECOM-1445,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-2024,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1742,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-80244!,E-Commerce,Wrong Item Sent
+ECOM-1238,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-55293.,E-Commerce,Damaged & Defective Items
+ECOM-1551,Returned parcel ORD-83731 5 days ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1060,"Driver marked order ORD-17989 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-2049,Unauthorized recurring charge of $280.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1099,"Driver marked order ORD-80575 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1686,"Your customer support promised my refund of $24.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1362,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-58655.,E-Commerce,Damaged & Defective Items
+ECOM-2095,Charged $450.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-2169,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1587,"I sent back the jacket for order ORD-51507 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2118,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1646,Where is my money? You cancelled my order ORD-95599 without my consent and withheld the $450.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1859,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1791,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-16310!,E-Commerce,Wrong Item Sent
+ECOM-1847,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-60667!,E-Commerce,Wrong Item Sent
+ECOM-1266,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1254,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1288,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-54424.,E-Commerce,Damaged & Defective Items
+ECOM-1314,Opened parcel ORD-43491 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1066,"Express delivery promised 2-day delivery for order ORD-97782, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1517,Returned parcel ORD-19046 2 weeks ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1734,Received someone else's order! Packing slip inside box ORD-70091 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-1855,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-10963!,E-Commerce,Wrong Item Sent
+ECOM-1918,Completely wrong product received! Ordered wireless headphones worth $149.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1132,Severe shipping delay on order ORD-54057. I paid an extra $450.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1162,Severe shipping delay on order ORD-68743. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1434,Received my electronic order ORD-17852 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1614,Returned parcel ORD-57124 14 days ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1504,"I sent back the jacket for order ORD-89395 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1147,"Express delivery promised 2-day delivery for order ORD-19961, but it has been 48 hours and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1361,Opened parcel ORD-89254 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1639,Returned parcel ORD-33992 10 days ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1764,Received someone else's order! Packing slip inside box ORD-33568 has a different customer name and address in Los Angeles.,E-Commerce,Wrong Item Sent
+ECOM-1981,Charged $149.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1370,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-28191.,E-Commerce,Damaged & Defective Items
+ECOM-1247,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-14373.,E-Commerce,Damaged & Defective Items
+ECOM-1709,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-31473!,E-Commerce,Wrong Item Sent
+ECOM-1270,Opened parcel ORD-84000 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2195,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1373,The blender I bought for $24.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1613,"I sent back the jacket for order ORD-86315 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1636,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1029,"Driver marked order ORD-44973 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-1313,Received my electronic order ORD-11007 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2140,Unauthorized recurring charge of $89.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1891,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-59177!,E-Commerce,Wrong Item Sent
+ECOM-1107,Severe shipping delay on order ORD-67954. I paid an extra $280.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1928,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2032,Charged $450.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1269,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1168,"Express delivery promised 2-day delivery for order ORD-73464, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1922,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1716,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-85223!,E-Commerce,Wrong Item Sent
+ECOM-1769,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1062,"Driver marked order ORD-20500 as delivery attempted, but I was sitting right by the front door all day in Chicago!",E-Commerce,Delivery & Shipping Delays
+ECOM-1816,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1932,Wrong shoe model sent. I paid $280.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1704,"Your customer support promised my refund of $280.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1527,Returned parcel ORD-23224 48 hours ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1281,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-62640.,E-Commerce,Damaged & Defective Items
+ECOM-1431,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1218,"Package ORD-82340 shows delivered by courier in Miami, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-2082,Double charged on my credit card for order ORD-98345. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1034,"Package ORD-74042 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1541,Customer service deducted a $24.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2044,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1731,Completely wrong product received! Ordered wireless headphones worth $149.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1669,Returned parcel ORD-70089 14 days ago with return tracking number. Where is my refund of $65.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1330,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1306,The blender I bought for $24.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1095,"Express delivery promised 2-day delivery for order ORD-86099, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1036,My order ORD-21226 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Boston!,E-Commerce,Delivery & Shipping Delays
+ECOM-1802,Received someone else's order! Packing slip inside box ORD-48980 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-1466,Received my electronic order ORD-67807 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1697,Returned parcel ORD-57329 10 days ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1291,Received my electronic order ORD-21188 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1165,"Driver marked order ORD-53357 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1182,My order ORD-30585 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1983,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1650,Where is my money? You cancelled my order ORD-47836 without my consent and withheld the $280.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1534,"I sent back the jacket for order ORD-82856 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1832,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2009,Why was I billed an unexpected international transaction fee of $49.50 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1305,The blender I bought for $450.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1661,Where is my money? You cancelled my order ORD-45041 without my consent and withheld the $49.50 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-2037,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1037,My order ORD-79822 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1357,Opened parcel ORD-68222 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1056,Severe shipping delay on order ORD-17685. I paid an extra $24.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1858,Received someone else's order! Packing slip inside box ORD-46291 has a different customer name and address in Seattle.,E-Commerce,Wrong Item Sent
+ECOM-2067,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1673,"I sent back the jacket for order ORD-55054 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1212,Severe shipping delay on order ORD-71894. I paid an extra $280.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1284,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1250,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1006,"Package ORD-10851 shows delivered by courier in Miami, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1677,Customer service deducted a $89.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1877,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1419,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-63665.,E-Commerce,Damaged & Defective Items
+ECOM-1995,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1934,Received someone else's order! Packing slip inside box ORD-17113 has a different customer name and address in Boston.,E-Commerce,Wrong Item Sent
+ECOM-2133,Double charged on my credit card for order ORD-55039. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1243,Received my electronic order ORD-84177 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1505,Where is my money? You cancelled my order ORD-71712 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1005,"Driver marked order ORD-64987 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1510,Where is my money? You cancelled my order ORD-67912 without my consent and withheld the $450.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-2079,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1469,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1012,"Express delivery promised 2-day delivery for order ORD-19116, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1259,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1003,My order ORD-22280 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Atlanta!,E-Commerce,Delivery & Shipping Delays
+ECOM-1655,Returned parcel ORD-68947 10 days ago with return tracking number. Where is my refund of $65.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1692,Returned parcel ORD-42527 48 hours ago with return tracking number. Where is my refund of $65.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1120,"Driver marked order ORD-68446 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1185,"Package ORD-47056 shows delivered by courier in Boston, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1295,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1949,Unauthorized recurring charge of $89.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1720,Received someone else's order! Packing slip inside box ORD-42540 has a different customer name and address in Los Angeles.,E-Commerce,Wrong Item Sent
+ECOM-2131,Double charged on my credit card for order ORD-31964. You billed me $149.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1429,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1052,"Express delivery promised 2-day delivery for order ORD-46509, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1591,Returned parcel ORD-21746 10 days ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1829,Wrong shoe model sent. I paid $89.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1166,"Package ORD-42951 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-2159,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1343,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1820,Completely wrong product received! Ordered wireless headphones worth $24.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1878,Completely wrong product received! Ordered wireless headphones worth $280.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1641,"I sent back the jacket for order ORD-65448 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2158,Double charged on my credit card for order ORD-77713. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1387,The blender I bought for $24.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2101,Double charged on my credit card for order ORD-75404. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1523,Where is my money? You cancelled my order ORD-65591 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1393,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-75211.,E-Commerce,Damaged & Defective Items
+ECOM-1718,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-71835!,E-Commerce,Wrong Item Sent
+ECOM-1864,Completely wrong product received! Ordered wireless headphones worth $450.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1371,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1848,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1116,"Driver marked order ORD-70889 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1093,My order ORD-46585 was supposed to arrive 10 days ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-1126,"Express delivery promised 2-day delivery for order ORD-18418, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1992,Double charged on my credit card for order ORD-43018. You billed me $280.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1725,Completely wrong product received! Ordered wireless headphones worth $450.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1256,The blender I bought for $24.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2168,Charged $24.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1465,Opened parcel ORD-14138 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1206,"Package ORD-81987 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1464,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-32349.,E-Commerce,Damaged & Defective Items
+ECOM-2197,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1025,My order ORD-24371 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1461,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1986,Double charged on my credit card for order ORD-51984. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1974,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2107,Double charged on my credit card for order ORD-76995. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1717,Wrong shoe model sent. I paid $49.50 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1856,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1599,Where is my money? You cancelled my order ORD-35630 without my consent and withheld the $49.50 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1184,"Driver marked order ORD-71592 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1863,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-86418!,E-Commerce,Wrong Item Sent
+ECOM-1784,Wrong shoe model sent. I paid $49.50 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1944,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1909,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-22451!,E-Commerce,Wrong Item Sent
+ECOM-1474,"Your customer support promised my refund of $89.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2105,Charged $89.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1529,Returned parcel ORD-62725 2 weeks ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1861,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1301,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1432,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1170,"Package ORD-11854 shows delivered by courier in Dallas, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1472,"I sent back the jacket for order ORD-35200 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1292,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1311,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1407,The blender I bought for $24.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1450,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-16705.,E-Commerce,Damaged & Defective Items
+ECOM-1298,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1194,"Express delivery promised 2-day delivery for order ORD-98381, but it has been 48 hours and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1931,Wrong shoe model sent. I paid $65.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1528,Where is my money? You cancelled my order ORD-98083 without my consent and withheld the $49.50 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1727,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1571,Where is my money? You cancelled my order ORD-72390 without my consent and withheld the $450.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1779,Received someone else's order! Packing slip inside box ORD-52284 has a different customer name and address in Dallas.,E-Commerce,Wrong Item Sent
+ECOM-1405,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-58623.,E-Commerce,Damaged & Defective Items
+ECOM-1842,Received someone else's order! Packing slip inside box ORD-70846 has a different customer name and address in Miami.,E-Commerce,Wrong Item Sent
+ECOM-1531,Where is my money? You cancelled my order ORD-51799 without my consent and withheld the $49.50 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1251,Opened parcel ORD-43681 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2177,Double charged on my credit card for order ORD-24801. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1467,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-36724.,E-Commerce,Damaged & Defective Items
+ECOM-1462,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1111,"Express delivery promised 2-day delivery for order ORD-29313, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1865,Received someone else's order! Packing slip inside box ORD-76494 has a different customer name and address in Dallas.,E-Commerce,Wrong Item Sent
+ECOM-1039,"Driver marked order ORD-65461 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1537,Where is my money? You cancelled my order ORD-72065 without my consent and withheld the $89.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1549,"I sent back the jacket for order ORD-71080 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1887,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1912,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-58840!,E-Commerce,Wrong Item Sent
+ECOM-1982,Double charged on my credit card for order ORD-94182. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2019,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1320,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-47947.,E-Commerce,Damaged & Defective Items
+ECOM-1902,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2090,Unauthorized recurring charge of $280.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1963,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1414,Opened parcel ORD-93584 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1437,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1906,Completely wrong product received! Ordered wireless headphones worth $149.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1783,Received someone else's order! Packing slip inside box ORD-26691 has a different customer name and address in New York.,E-Commerce,Wrong Item Sent
+ECOM-2014,Double charged on my credit card for order ORD-39035. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1774,Completely wrong product received! Ordered wireless headphones worth $24.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1688,Customer service deducted a $149.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1449,The blender I bought for $24.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1181,My order ORD-37235 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Atlanta!,E-Commerce,Delivery & Shipping Delays
+ECOM-1067,"Package ORD-61876 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1209,Severe shipping delay on order ORD-22217. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1722,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-33507!,E-Commerce,Wrong Item Sent
+ECOM-1990,Charged $149.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1422,Opened parcel ORD-66704 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2045,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1015,"Package ORD-56566 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1418,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2046,Double charged on my credit card for order ORD-43850. You billed me $280.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1231,My order ORD-48452 was supposed to arrive 10 days ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-2125,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1167,"Express delivery promised 2-day delivery for order ORD-51359, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1997,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1485,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1503,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1843,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-99282!,E-Commerce,Wrong Item Sent
+ECOM-2007,Why was I billed an unexpected international transaction fee of $89.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1868,Received someone else's order! Packing slip inside box ORD-95778 has a different customer name and address in Atlanta.,E-Commerce,Wrong Item Sent
+ECOM-1665,Where is my money? You cancelled my order ORD-92890 without my consent and withheld the $149.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1480,Customer service deducted a $49.50 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2075,Double charged on my credit card for order ORD-71822. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1957,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1137,"Package ORD-54236 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1488,"I sent back the jacket for order ORD-74930 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1081,My order ORD-24663 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1367,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1690,Returned parcel ORD-28351 3 days ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1683,Returned parcel ORD-65353 14 days ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1237,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-47700.,E-Commerce,Damaged & Defective Items
+ECOM-1610,"I sent back the jacket for order ORD-98208 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1969,Double charged on my credit card for order ORD-48558. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1743,Received someone else's order! Packing slip inside box ORD-70731 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-1580,Returned parcel ORD-67290 5 days ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1620,Returned parcel ORD-73277 3 days ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1273,Opened parcel ORD-27038 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1880,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1626,"Your customer support promised my refund of $280.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2104,Charged $280.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1189,"Package ORD-87993 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1781,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1109,"Driver marked order ORD-97012 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-1192,My order ORD-88385 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-1752,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-12857!,E-Commerce,Wrong Item Sent
+ECOM-1280,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1652,Returned parcel ORD-45112 48 hours ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1453,Received my electronic order ORD-61629 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1310,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1421,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1894,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-64627!,E-Commerce,Wrong Item Sent
+ECOM-1962,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1756,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1875,Received someone else's order! Packing slip inside box ORD-33639 has a different customer name and address in Boston.,E-Commerce,Wrong Item Sent
+ECOM-1830,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2194,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1121,"Package ORD-42406 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1545,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1570,Returned parcel ORD-22255 2 weeks ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1069,"Driver marked order ORD-23104 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1325,Opened parcel ORD-20011 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1161,"Driver marked order ORD-41499 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1960,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1886,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1148,"Package ORD-99687 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1901,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1919,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2065,Double charged on my credit card for order ORD-65846. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1705,Returned parcel ORD-50654 14 days ago with return tracking number. Where is my refund of $450.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-2145,Unauthorized recurring charge of $280.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2136,Double charged on my credit card for order ORD-34102. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2085,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1872,Completely wrong product received! Ordered wireless headphones worth $280.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1554,Where is my money? You cancelled my order ORD-42208 without my consent and withheld the $89.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1594,Where is my money? You cancelled my order ORD-32227 without my consent and withheld the $49.50 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-2155,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1975,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1211,"Package ORD-76698 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1134,"Driver marked order ORD-83975 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1555,"I sent back the jacket for order ORD-94108 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1459,The blender I bought for $450.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1337,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1619,Customer service deducted a $89.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2031,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1436,Opened parcel ORD-50970 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1954,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1586,Customer service deducted a $450.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1246,Received my electronic order ORD-92242 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2137,Double charged on my credit card for order ORD-96772. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1977,Charged $280.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1702,"I sent back the jacket for order ORD-20803 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1759,Received someone else's order! Packing slip inside box ORD-75390 has a different customer name and address in Boston.,E-Commerce,Wrong Item Sent
+ECOM-1627,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1694,Where is my money? You cancelled my order ORD-76784 without my consent and withheld the $89.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1533,Customer service deducted a $450.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1967,Double charged on my credit card for order ORD-93071. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2122,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1140,My order ORD-95426 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in New York!,E-Commerce,Delivery & Shipping Delays
+ECOM-1672,Customer service deducted a $280.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2176,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1349,The blender I bought for $450.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1155,"Express delivery promised 2-day delivery for order ORD-21359, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1230,"Express delivery promised 2-day delivery for order ORD-49251, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1286,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1568,"I sent back the jacket for order ORD-70161 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1030,"Package ORD-66985 shows delivered by courier in Boston, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1396,Received my electronic order ORD-52981 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1263,Opened parcel ORD-64379 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1976,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1063,My order ORD-98501 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-1282,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-19632.,E-Commerce,Damaged & Defective Items
+ECOM-1925,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1241,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1309,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1640,"I sent back the jacket for order ORD-64819 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1363,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1360,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1700,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1355,Opened parcel ORD-33703 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1996,Why was I billed an unexpected international transaction fee of $89.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1160,"Express delivery promised 2-day delivery for order ORD-21221, but it has been 5 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1762,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1972,Double charged on my credit card for order ORD-86544. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1501,Customer service deducted a $450.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2124,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1849,Completely wrong product received! Ordered wireless headphones worth $280.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-2029,Unauthorized recurring charge of $89.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1253,Opened parcel ORD-98647 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1040,"Package ORD-62296 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1022,"Package ORD-28301 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1729,Received someone else's order! Packing slip inside box ORD-93354 has a different customer name and address in New York.,E-Commerce,Wrong Item Sent
+ECOM-1910,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1468,Received my electronic order ORD-28098 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1512,Returned parcel ORD-69432 5 days ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1203,"Driver marked order ORD-10150 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1190,My order ORD-71433 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Seattle!,E-Commerce,Delivery & Shipping Delays
+ECOM-1090,Severe shipping delay on order ORD-39154. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2094,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1611,Customer service deducted a $450.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1496,Customer service deducted a $49.50 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2066,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1101,"Package ORD-96951 shows delivered by courier in Seattle, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1726,Wrong shoe model sent. I paid $280.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-2054,Double charged on my credit card for order ORD-89365. You billed me $149.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1389,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1236,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2081,Charged $280.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-2062,Double charged on my credit card for order ORD-10716. You billed me $280.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1299,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1019,My order ORD-40021 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-1110,"Express delivery promised 2-day delivery for order ORD-98184, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1368,Opened parcel ORD-13694 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1675,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1678,Returned parcel ORD-58738 14 days ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-2050,Double charged on my credit card for order ORD-86368. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1676,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1397,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-88986.,E-Commerce,Damaged & Defective Items
+ECOM-1068,"Package ORD-19508 shows delivered by courier in Boston, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1008,My order ORD-59797 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-1670,Returned parcel ORD-80048 2 weeks ago with return tracking number. Where is my refund of $149.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-2183,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1054,"Driver marked order ORD-11934 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1277,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-78955.,E-Commerce,Damaged & Defective Items
+ECOM-1632,Returned parcel ORD-80371 5 days ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1713,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1808,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1205,Severe shipping delay on order ORD-91973. I paid an extra $49.50 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1290,The blender I bought for $24.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1061,My order ORD-86569 was supposed to arrive 2 weeks ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1174,Severe shipping delay on order ORD-54657. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1261,Received my electronic order ORD-40775 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2038,Double charged on my credit card for order ORD-67658. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2150,Unauthorized recurring charge of $24.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1679,"I sent back the jacket for order ORD-91999 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1596,"Your customer support promised my refund of $89.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1385,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-72722.,E-Commerce,Damaged & Defective Items
+ECOM-1018,"Driver marked order ORD-38785 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-1684,Returned parcel ORD-40008 2 weeks ago with return tracking number. Where is my refund of $450.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1715,Wrong shoe model sent. I paid $89.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-2180,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,E-Commerce,Technical Anomaly / Outlier
+ECOM-2091,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1747,Completely wrong product received! Ordered wireless headphones worth $280.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1637,Customer service deducted a $450.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2012,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1930,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-23453!,E-Commerce,Wrong Item Sent
+ECOM-1264,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-90694.,E-Commerce,Damaged & Defective Items
+ECOM-2055,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1535,"I sent back the jacket for order ORD-78742 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1559,Returned parcel ORD-64053 5 days ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1208,"Express delivery promised 2-day delivery for order ORD-50730, but it has been 48 hours and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-2110,Double charged on my credit card for order ORD-69925. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1550,Customer service deducted a $149.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1862,Received someone else's order! Packing slip inside box ORD-64862 has a different customer name and address in Miami.,E-Commerce,Wrong Item Sent
+ECOM-1214,My order ORD-46208 was supposed to arrive 2 weeks ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-1339,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-23566.,E-Commerce,Damaged & Defective Items
+ECOM-1023,"Driver marked order ORD-66155 as delivery attempted, but I was sitting right by the front door all day in Miami!",E-Commerce,Delivery & Shipping Delays
+ECOM-1482,"Your customer support promised my refund of $89.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1460,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1883,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1113,"Driver marked order ORD-35485 as delivery attempted, but I was sitting right by the front door all day in Miami!",E-Commerce,Delivery & Shipping Delays
+ECOM-1823,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1710,Wrong shoe model sent. I paid $49.50 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1351,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1014,"Package ORD-69429 shows delivered by courier in Los Angeles, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1294,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2004,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1852,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1938,Received someone else's order! Packing slip inside box ORD-81786 has a different customer name and address in Los Angeles.,E-Commerce,Wrong Item Sent
+ECOM-1635,"I sent back the jacket for order ORD-90125 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1905,Wrong shoe model sent. I paid $89.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1966,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1757,Received someone else's order! Packing slip inside box ORD-46681 has a different customer name and address in Dallas.,E-Commerce,Wrong Item Sent
+ECOM-2170,Double charged on my credit card for order ORD-42778. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1927,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2141,Why was I billed an unexpected international transaction fee of $89.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1775,Received someone else's order! Packing slip inside box ORD-90495 has a different customer name and address in Dallas.,E-Commerce,Wrong Item Sent
+ECOM-2089,Unauthorized recurring charge of $49.50 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2163,Double charged on my credit card for order ORD-16505. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1899,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-23928!,E-Commerce,Wrong Item Sent
+ECOM-1204,My order ORD-34586 was supposed to arrive 48 hours ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-1239,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-42780.,E-Commerce,Damaged & Defective Items
+ECOM-1837,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1045,"Express delivery promised 2-day delivery for order ORD-46500, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1451,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1149,"Driver marked order ORD-15383 as delivery attempted, but I was sitting right by the front door all day in Miami!",E-Commerce,Delivery & Shipping Delays
+ECOM-1638,"Your customer support promised my refund of $89.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2106,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2069,Why was I billed an unexpected international transaction fee of $89.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1841,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1631,"Your customer support promised my refund of $280.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1358,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-40671.,E-Commerce,Damaged & Defective Items
+ECOM-1173,My order ORD-85243 was supposed to arrive 10 days ago. Tracking still says pending at sorting hub in Boston!,E-Commerce,Delivery & Shipping Delays
+ECOM-1965,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1978,Why was I billed an unexpected international transaction fee of $49.50 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1024,"Express delivery promised 2-day delivery for order ORD-28131, but it has been 48 hours and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1671,"Your customer support promised my refund of $65.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1608,Where is my money? You cancelled my order ORD-13527 without my consent and withheld the $450.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1352,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-35166.,E-Commerce,Damaged & Defective Items
+ECOM-2156,Double charged on my credit card for order ORD-31400. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1195,"Package ORD-85529 shows delivered by courier in Dallas, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1987,Double charged on my credit card for order ORD-80513. You billed me $450.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1374,Opened parcel ORD-65027 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1433,Opened parcel ORD-99783 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1423,Received my electronic order ORD-77908 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1687,Where is my money? You cancelled my order ORD-83831 without my consent and withheld the $149.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1115,My order ORD-65724 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-1091,"Package ORD-39831 shows delivered by courier in New York, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1946,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1701,"I sent back the jacket for order ORD-76402 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1331,The blender I bought for $149.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1440,Received my electronic order ORD-16632 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2112,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1272,Opened parcel ORD-53064 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1073,"Driver marked order ORD-49240 as delivery attempted, but I was sitting right by the front door all day in Chicago!",E-Commerce,Delivery & Shipping Delays
+ECOM-1248,Opened parcel ORD-21813 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1252,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1964,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1753,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1630,Where is my money? You cancelled my order ORD-66302 without my consent and withheld the $450.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1574,"Your customer support promised my refund of $24.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1200,Severe shipping delay on order ORD-47777. I paid an extra $65.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1933,Wrong shoe model sent. I paid $89.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1667,Where is my money? You cancelled my order ORD-46467 without my consent and withheld the $149.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1404,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-84349.,E-Commerce,Damaged & Defective Items
+ECOM-2010,Double charged on my credit card for order ORD-23113. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2114,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1572,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2057,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1138,Severe shipping delay on order ORD-43065. I paid an extra $24.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1780,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1133,"Express delivery promised 2-day delivery for order ORD-71261, but it has been 5 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1956,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1792,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1984,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2173,Double charged on my credit card for order ORD-71974. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-2167,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1087,My order ORD-33509 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-1268,Received my electronic order ORD-69600 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1408,Received my electronic order ORD-34385 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1561,Returned parcel ORD-90980 14 days ago with return tracking number. Where is my refund of $450.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1050,Severe shipping delay on order ORD-54473. I paid an extra $49.50 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1763,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1585,Where is my money? You cancelled my order ORD-48715 without my consent and withheld the $24.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1487,Returned parcel ORD-32946 2 weeks ago with return tracking number. Where is my refund of $24.99?,E-Commerce,Refund & Return Discrepancies
+ECOM-1084,My order ORD-56898 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Atlanta!,E-Commerce,Delivery & Shipping Delays
+ECOM-1344,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1135,Severe shipping delay on order ORD-27786. I paid an extra $24.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1151,Severe shipping delay on order ORD-74251. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1403,Received my electronic order ORD-40932 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1805,Received someone else's order! Packing slip inside box ORD-96772 has a different customer name and address in Boston.,E-Commerce,Wrong Item Sent
+ECOM-1296,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-2088,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1227,Severe shipping delay on order ORD-80912. I paid an extra $49.50 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1092,"Express delivery promised 2-day delivery for order ORD-62227, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1516,"I sent back the jacket for order ORD-55158 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1589,Customer service deducted a $49.50 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2001,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1770,Received someone else's order! Packing slip inside box ORD-87537 has a different customer name and address in Los Angeles.,E-Commerce,Wrong Item Sent
+ECOM-1456,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1402,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1749,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1689,Where is my money? You cancelled my order ORD-99989 without my consent and withheld the $24.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1051,"Express delivery promised 2-day delivery for order ORD-80292, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1156,Severe shipping delay on order ORD-84691. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2126,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1714,Wrong shoe model sent. I paid $65.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1514,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1334,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-69233.,E-Commerce,Damaged & Defective Items
+ECOM-1153,"Driver marked order ORD-95256 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1578,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1552,Customer service deducted a $89.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1326,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1042,My order ORD-54313 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in Atlanta!,E-Commerce,Delivery & Shipping Delays
+ECOM-1536,"Your customer support promised my refund of $65.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1312,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1055,Severe shipping delay on order ORD-73653. I paid an extra $65.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1391,The blender I bought for $149.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1647,"I sent back the jacket for order ORD-64477 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1796,Received someone else's order! Packing slip inside box ORD-44226 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-1649,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1011,"Driver marked order ORD-48427 as delivery attempted, but I was sitting right by the front door all day in Los Angeles!",E-Commerce,Delivery & Shipping Delays
+ECOM-1950,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1616,Where is my money? You cancelled my order ORD-15806 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1869,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1668,"I sent back the jacket for order ORD-52898 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1765,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1232,"Express delivery promised 2-day delivery for order ORD-42007, but it has been 48 hours and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1788,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-97821!,E-Commerce,Wrong Item Sent
+ECOM-1890,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1123,Severe shipping delay on order ORD-20155. I paid an extra $49.50 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1888,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1952,Why was I billed an unexpected international transaction fee of $49.50 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1426,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1444,The blender I bought for $149.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1836,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-34633!,E-Commerce,Wrong Item Sent
+ECOM-1900,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1356,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-15726.,E-Commerce,Damaged & Defective Items
+ECOM-1342,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2093,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1943,Wrong shoe model sent. I paid $450.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1057,Severe shipping delay on order ORD-44760. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1798,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-54295!,E-Commerce,Wrong Item Sent
+ECOM-2172,Charged $280.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1390,Opened parcel ORD-47501 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2005,Double charged on my credit card for order ORD-38939. You billed me $49.50 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1827,Wrong shoe model sent. I paid $149.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1748,Wrong shoe model sent. I paid $24.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-2142,Double charged on my credit card for order ORD-42426. You billed me $149.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1307,Opened parcel ORD-30632 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1657,Where is my money? You cancelled my order ORD-55957 without my consent and withheld the $49.50 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1609,"Your customer support promised my refund of $65.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1097,"Driver marked order ORD-77033 as delivery attempted, but I was sitting right by the front door all day in Miami!",E-Commerce,Delivery & Shipping Delays
+ECOM-2147,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2128,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1590,"I sent back the jacket for order ORD-68830 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1719,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1706,"Your customer support promised my refund of $149.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2152,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1845,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1499,Customer service deducted a $89.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1177,"Express delivery promised 2-day delivery for order ORD-83772, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1494,Customer service deducted a $49.50 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1811,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1332,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-92756.,E-Commerce,Damaged & Defective Items
+ECOM-1740,Completely wrong product received! Ordered wireless headphones worth $24.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1079,"Express delivery promised 2-day delivery for order ORD-93507, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-2028,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1222,My order ORD-26547 was supposed to arrive 48 hours ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-2074,Unauthorized recurring charge of $65.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2047,Why was I billed an unexpected international transaction fee of $24.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1409,Received my electronic order ORD-44311 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1584,"I sent back the jacket for order ORD-66603 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1188,"Express delivery promised 2-day delivery for order ORD-19359, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-2042,Unauthorized recurring charge of $450.00 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2149,Double charged on my credit card for order ORD-21738. You billed me $89.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1477,"Your customer support promised my refund of $450.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1511,Where is my money? You cancelled my order ORD-74071 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-2148,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1542,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1283,Opened parcel ORD-18609 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1319,The blender I bought for $450.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2189,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1942,Completely wrong product received! Ordered wireless headphones worth $24.99 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1077,My order ORD-22097 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-1193,"Package ORD-89129 shows delivered by courier in New York, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1316,Opened parcel ORD-59834 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1565,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1044,My order ORD-14117 was supposed to arrive 10 days ago. Tracking still says pending at sorting hub in Chicago!,E-Commerce,Delivery & Shipping Delays
+ECOM-1644,"I sent back the jacket for order ORD-91187 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1439,Received my electronic order ORD-45058 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1454,The blender I bought for $280.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1615,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1013,"Package ORD-20458 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1618,Customer service deducted a $149.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1276,Opened parcel ORD-44782 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1033,"Package ORD-31174 shows delivered by courier in New York, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1582,Customer service deducted a $65.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1070,"Package ORD-27361 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1000,My order ORD-13278 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Seattle!,E-Commerce,Delivery & Shipping Delays
+ECOM-1813,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-21233!,E-Commerce,Wrong Item Sent
+ECOM-1916,Wrong shoe model sent. I paid $49.50 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1926,Received someone else's order! Packing slip inside box ORD-46458 has a different customer name and address in Atlanta.,E-Commerce,Wrong Item Sent
+ECOM-1737,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1520,Where is my money? You cancelled my order ORD-27431 without my consent and withheld the $24.99 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1768,Wrong shoe model sent. I paid $89.00 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1438,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1492,Returned parcel ORD-53343 5 days ago with return tracking number. Where is my refund of $450.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-2164,Charged $450.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1881,Completely wrong product received! Ordered wireless headphones worth $65.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1844,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1761,Completely wrong product received! Ordered wireless headphones worth $450.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1664,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1645,"I sent back the jacket for order ORD-27895 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1721,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-84912!,E-Commerce,Wrong Item Sent
+ECOM-1907,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-23082!,E-Commerce,Wrong Item Sent
+ECOM-1323,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-87184.,E-Commerce,Damaged & Defective Items
+ECOM-1691,"I sent back the jacket for order ORD-51222 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-2033,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1822,Wrong shoe model sent. I paid $24.99 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1369,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1341,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1213,"Express delivery promised 2-day delivery for order ORD-60277, but it has been 5 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1874,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1939,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-16000!,E-Commerce,Wrong Item Sent
+ECOM-2175,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1216,"Package ORD-86931 shows delivered by courier in Boston, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1850,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-99417!,E-Commerce,Wrong Item Sent
+ECOM-1366,Received my electronic order ORD-64381 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-2196,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,E-Commerce,Technical Anomaly / Outlier
+ECOM-2077,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2178,Charged $149.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-2157,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1789,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-44761!,E-Commerce,Wrong Item Sent
+ECOM-1473,Customer service deducted a $450.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1207,Severe shipping delay on order ORD-25915. I paid an extra $450.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1198,Severe shipping delay on order ORD-55607. I paid an extra $89.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-2063,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1442,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1159,"Driver marked order ORD-46211 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1622,Customer service deducted a $280.00 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-1144,"Package ORD-31992 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1083,"Express delivery promised 2-day delivery for order ORD-15482, but it has been 10 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-2083,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1544,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1119,Severe shipping delay on order ORD-90301. I paid an extra $65.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1755,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1851,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1739,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1124,"Package ORD-54020 shows delivered by courier in Chicago, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1958,Charged $24.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1163,"Express delivery promised 2-day delivery for order ORD-63005, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-2006,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1427,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items
+ECOM-1026,Severe shipping delay on order ORD-88172. I paid an extra $149.99 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1145,"Express delivery promised 2-day delivery for order ORD-50768, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1452,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-82070.,E-Commerce,Damaged & Defective Items
+ECOM-1750,Completely wrong product received! Ordered wireless headphones worth $89.00 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-1100,Severe shipping delay on order ORD-19171. I paid an extra $280.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1524,"Your customer support promised my refund of $49.50 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2076,Charged $24.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-2166,Charged $149.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1795,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1065,My order ORD-64948 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Los Angeles!,E-Commerce,Delivery & Shipping Delays
+ECOM-1202,"Package ORD-52372 shows delivered by courier in Miami, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-1392,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-67637.,E-Commerce,Damaged & Defective Items
+ECOM-1994,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-2186,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1413,The blender I bought for $89.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1064,"Driver marked order ORD-42271 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1365,Quality is appalling. Received a damaged leather bag with ripped stitching on handle for order ORD-22021.,E-Commerce,Damaged & Defective Items
+ECOM-1265,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1089,"Express delivery promised 2-day delivery for order ORD-24168, but it has been 2 weeks and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1136,"Package ORD-59689 shows delivered by courier in Atlanta, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-2071,Double charged on my credit card for order ORD-96413. You billed me $149.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1197,"Driver marked order ORD-67132 as delivery attempted, but I was sitting right by the front door all day in Boston!",E-Commerce,Delivery & Shipping Delays
+ECOM-1226,My order ORD-53065 was supposed to arrive 14 days ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-1659,Returned parcel ORD-84720 10 days ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1839,Wrong shoe model sent. I paid $49.50 for running shoes and got casual slip-ons.,E-Commerce,Wrong Item Sent
+ECOM-1660,Where is my money? You cancelled my order ORD-32069 without my consent and withheld the $89.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1579,"Your customer support promised my refund of $24.99 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-2188,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,E-Commerce,Technical Anomaly / Outlier
+ECOM-2129,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-2018,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-2073,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-2165,Unauthorized recurring charge of $49.50 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1793,Received someone else's order! Packing slip inside box ORD-81568 has a different customer name and address in Chicago.,E-Commerce,Wrong Item Sent
+ECOM-2103,Double charged on my credit card for order ORD-91080. You billed me $65.00 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1129,"Driver marked order ORD-59857 as delivery attempted, but I was sitting right by the front door all day in New York!",E-Commerce,Delivery & Shipping Delays
+ECOM-1656,Returned parcel ORD-67549 3 days ago with return tracking number. Where is my refund of $49.50?,E-Commerce,Refund & Return Discrepancies
+ECOM-1489,Returned parcel ORD-49110 48 hours ago with return tracking number. Where is my refund of $89.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1745,Received someone else's order! Packing slip inside box ORD-29441 has a different customer name and address in Atlanta.,E-Commerce,Wrong Item Sent
+ECOM-1038,Severe shipping delay on order ORD-82063. I paid an extra $280.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1379,The blender I bought for $149.99 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1776,Completely wrong product received! Ordered wireless headphones worth $49.50 and received cheap plastic phone cases.,E-Commerce,Wrong Item Sent
+ECOM-2036,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1001,"Express delivery promised 2-day delivery for order ORD-28289, but it has been 14 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1929,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-1751,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-86326!,E-Commerce,Wrong Item Sent
+ECOM-2109,Why was I billed an unexpected international transaction fee of $149.99 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1539,Where is my money? You cancelled my order ORD-79467 without my consent and withheld the $49.50 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1605,"I sent back the jacket for order ORD-85481 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1920,Received someone else's order! Packing slip inside box ORD-11620 has a different customer name and address in Atlanta.,E-Commerce,Wrong Item Sent
+ECOM-2199,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,E-Commerce,Technical Anomaly / Outlier
+ECOM-2087,Why was I billed an unexpected international transaction fee of $65.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1141,"Express delivery promised 2-day delivery for order ORD-12671, but it has been 48 hours and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1328,Opened parcel ORD-32740 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2135,Unauthorized recurring charge of $149.99 on my statement under billing descriptor ECOM-SUBSCRIPTION.,E-Commerce,Subscription & Overcharging
+ECOM-1563,Returned parcel ORD-79391 14 days ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1959,Charged $89.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1662,"I sent back the jacket for order ORD-17770 and the warehouse confirmed receipt, but the return portal still says pending inspection.",E-Commerce,Refund & Return Discrepancies
+ECOM-1712,Ordered a set of 4 ceramic plates and only received 2 bowls. Half my package is missing.,E-Commerce,Wrong Item Sent
+ECOM-2113,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1382,Opened parcel ORD-96127 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-2160,Charged $24.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1388,The blender I bought for $65.00 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-2003,Why was I billed an unexpected international transaction fee of $450.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-2111,Charged $149.99 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1603,Customer service deducted a $149.99 restocking fee when I returned an incorrect shoe size that was your fault!,E-Commerce,Refund & Return Discrepancies
+ECOM-2144,Charged $65.00 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1896,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-49467!,E-Commerce,Wrong Item Sent
+ECOM-1993,Double charged on my credit card for order ORD-43901. You billed me $149.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1080,Severe shipping delay on order ORD-82309. I paid an extra $280.00 for priority dispatch and it is completely missing.,E-Commerce,Delivery & Shipping Delays
+ECOM-1513,Where is my money? You cancelled my order ORD-17567 without my consent and withheld the $450.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1275,Received my electronic order ORD-56955 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1733,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-40339!,E-Commerce,Wrong Item Sent
+ECOM-1773,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-21830!,E-Commerce,Wrong Item Sent
+ECOM-1043,"Express delivery promised 2-day delivery for order ORD-10942, but it has been 3 days and no courier has shown up.",E-Commerce,Delivery & Shipping Delays
+ECOM-1395,Opened parcel ORD-81496 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1898,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-77054!,E-Commerce,Wrong Item Sent
+ECOM-1711,Received someone else's order! Packing slip inside box ORD-25473 has a different customer name and address in Los Angeles.,E-Commerce,Wrong Item Sent
+ECOM-2143,Double charged on my credit card for order ORD-27206. You billed me $24.99 twice for the same transaction.,E-Commerce,Subscription & Overcharging
+ECOM-1648,"Your customer support promised my refund of $65.00 would be credited within 48 hours, still nothing in my bank account.",E-Commerce,Refund & Return Discrepancies
+ECOM-1476,Where is my money? You cancelled my order ORD-59767 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1999,Charged $49.50 for Prime annual membership renewal after I explicitly cancelled auto-renew last month!,E-Commerce,Subscription & Overcharging
+ECOM-1257,Opened parcel ORD-71797 and the perfume bottle leaked everywhere. The entire box was crushed during transit.,E-Commerce,Damaged & Defective Items
+ECOM-1219,"Package ORD-34727 shows delivered by courier in Atlanta, but I checked my porch and security camera and nothing is there!",E-Commerce,Delivery & Shipping Delays
+ECOM-2098,Promo code SAVE20 was applied at checkout but invoice shows full price without the 20% discount applied.,E-Commerce,Subscription & Overcharging
+ECOM-1315,Received my electronic order ORD-75193 completely broken. The display screen is cracked and won't turn on.,E-Commerce,Damaged & Defective Items
+ECOM-1728,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-63744!,E-Commerce,Wrong Item Sent
+ECOM-2191,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,E-Commerce,Technical Anomaly / Outlier
+ECOM-1122,"Driver marked order ORD-73517 as delivery attempted, but I was sitting right by the front door all day in Atlanta!",E-Commerce,Delivery & Shipping Delays
+ECOM-1693,Returned parcel ORD-96298 10 days ago with return tracking number. Where is my refund of $280.00?,E-Commerce,Refund & Return Discrepancies
+ECOM-1187,My order ORD-81376 was supposed to arrive 5 days ago. Tracking still says pending at sorting hub in Dallas!,E-Commerce,Delivery & Shipping Delays
+ECOM-2023,Why was I billed an unexpected international transaction fee of $280.00 on a domestic order?,E-Commerce,Subscription & Overcharging
+ECOM-1322,The blender I bought for $49.50 stopped working after 10 minutes with burning smell and smoke coming out.,E-Commerce,Damaged & Defective Items
+ECOM-1509,Where is my money? You cancelled my order ORD-29641 without my consent and withheld the $65.00 charge!,E-Commerce,Refund & Return Discrepancies
+ECOM-1183,My order ORD-30517 was supposed to arrive 3 days ago. Tracking still says pending at sorting hub in Miami!,E-Commerce,Delivery & Shipping Delays
+ECOM-1760,I ordered an XL blue winter jacket but you shipped a medium green dress for order ORD-46670!,E-Commerce,Wrong Item Sent
+ECOM-1317,Item arrived shattered into pieces inside bubble wrap. Package was handled with zero care by carrier.,E-Commerce,Damaged & Defective Items

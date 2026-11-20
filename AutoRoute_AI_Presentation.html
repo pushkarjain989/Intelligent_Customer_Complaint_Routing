@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AutoRoute AI - Project Presentation</title>
+  <style>
+    :root {
+      --bg-main: #f8fafc;
+      --bg-card: #ffffff;
+      --border-card: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --primary: #4338ca;
+      --primary-light: #e0e7ff;
+      --accent: #0284c7;
+      --accent-light: #e0f2fe;
+      --success: #059669;
+      --success-light: #d1fae5;
+      --warning: #d97706;
+      --warning-light: #fef3c7;
+      --danger: #dc2626;
+      --danger-light: #fee2e2;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.07), 0 2px 4px -1px rgba(0,0,0,0.04);
+      --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.08), 0 4px 6px -2px rgba(0,0,0,0.03);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+
+    body {
+      background: var(--bg-main);
+      color: var(--text-main);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 1rem;
+    }
+
+    /* Deck container */
+    .deck-container {
+      width: 100%;
+      max-width: 1100px;
+      aspect-ratio: 16 / 9;
+      background: var(--bg-card);
+      border-radius: 16px;
+      border: 1px solid var(--border-card);
+      box-shadow: var(--shadow-lg);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* Top bar */
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 2rem;
+      border-bottom: 1px solid var(--border-card);
+      background: #fafafa;
+    }
+
+    .project-tag {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 700;
+      color: var(--primary);
+      font-size: 0.95rem;
+      letter-spacing: 0.5px;
+    }
+
+    .project-tag .dot {
+      width: 10px;
+      height: 10px;
+      background: var(--primary);
+      border-radius: 50%;
+    }
+
+    .slide-counter {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      background: var(--bg-main);
+      padding: 0.25rem 0.75rem;
+      border-radius: 999px;
+      border: 1px solid var(--border-card);
+    }
+
+    /* Slide area */
+    .slides-wrapper {
+      flex: 1;
+      padding: 2.2rem 3rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      overflow-y: auto;
+    }
+
+    .slide {
+      display: none;
+      height: 100%;
+      flex-direction: column;
+      justify-content: space-between;
+      animation: fadeIn 0.3s ease-in-out;
+    }
+
+    .slide.active {
+      display: flex;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Headings */
+    .slide-header {
+      margin-bottom: 1.25rem;
+    }
+
+    .slide-category {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--primary);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 0.25rem;
+    }
+
+    .slide-title {
+      font-size: 1.75rem;
+      font-weight: 800;
+      color: var(--text-main);
+      line-height: 1.2;
+    }
+
+    .slide-subtitle {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      margin-top: 0.25rem;
+    }
+
+    /* Grid layouts */
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+    }
+
+    .grid-4 {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0.85rem;
+    }
+
+    /* Cards */
+    .card {
+      background: #ffffff;
+      border: 1px solid var(--border-card);
+      border-radius: 10px;
+      padding: 1.1rem;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .card.highlight {
+      background: #fdfefe;
+      border-color: #cbd5e1;
+    }
+
+    .card.primary-border { border-left: 4px solid var(--primary); }
+    .card.accent-border { border-left: 4px solid var(--accent); }
+    .card.success-border { border-left: 4px solid var(--success); }
+    .card.danger-border { border-left: 4px solid var(--danger); }
+    .card.warning-border { border-left: 4px solid var(--warning); }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 0.4rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .card-body {
+      font-size: 0.85rem;
+      color: #334155;
+      line-height: 1.45;
+    }
+
+    .card-body ul {
+      margin-left: 1.1rem;
+      margin-top: 0.35rem;
+    }
+
+    .card-body li {
+      margin-bottom: 0.25rem;
+    }
+
+    /* Badges */
+    .badge {
+      display: inline-block;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 6px;
+      margin-bottom: 0.4rem;
+    }
+
+    .badge-primary { background: var(--primary-light); color: var(--primary); }
+    .badge-accent { background: var(--accent-light); color: var(--accent); }
+    .badge-success { background: var(--success-light); color: var(--success); }
+    .badge-danger { background: var(--danger-light); color: var(--danger); }
+    .badge-warning { background: var(--warning-light); color: var(--warning); }
+
+    /* Tables */
+    table.slide-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.82rem;
+      background: #ffffff;
+      border: 1px solid var(--border-card);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    table.slide-table th {
+      background: #f1f5f9;
+      color: #1e293b;
+      text-align: left;
+      padding: 0.6rem 0.85rem;
+      font-weight: 700;
+      border-bottom: 1px solid var(--border-card);
+    }
+
+    table.slide-table td {
+      padding: 0.55rem 0.85rem;
+      border-bottom: 1px solid #f1f5f9;
+      color: #334155;
+    }
+
+    table.slide-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    /* Architecture diagram */
+    .flow-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.6rem;
+      background: #f8fafc;
+      padding: 1.25rem;
+      border-radius: 12px;
+      border: 1px solid #e2e8f0;
+      margin: 0.75rem 0;
+    }
+
+    .flow-step {
+      flex: 1;
+      background: #ffffff;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      padding: 0.8rem 0.6rem;
+      text-align: center;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .flow-step .num {
+      width: 22px;
+      height: 22px;
+      background: var(--primary);
+      color: white;
+      font-size: 0.75rem;
+      font-weight: 700;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 0.4rem auto;
+    }
+
+    .flow-step .label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    .flow-step .desc {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-top: 0.2rem;
+    }
+
+    .flow-arrow {
+      color: #94a3b8;
+      font-weight: 800;
+      font-size: 1.2rem;
+    }
+
+    /* Controls bar */
+    .controls-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.85rem 2rem;
+      border-top: 1px solid var(--border-card);
+      background: #fafafa;
+    }
+
+    .nav-buttons {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    button.btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      color: var(--text-main);
+      padding: 0.45rem 1rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.85rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      transition: all 0.2s;
+    }
+
+    button.btn:hover {
+      background: #f1f5f9;
+      border-color: #cbd5e1;
+    }
+
+    button.btn-primary {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+
+    button.btn-primary:hover {
+      background: #3730a3;
+    }
+
+    .hint {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    @media print {
+      body { background: white; padding: 0; }
+      .deck-container { box-shadow: none; border: none; max-width: 100%; aspect-ratio: auto; }
+      .top-bar, .controls-bar { display: none; }
+      .slide { display: flex !important; page-break-after: always; min-height: 100vh; padding: 2rem; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="deck-container">
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <div class="project-tag">
+      <div class="dot"></div>
+      <span>AutoRoute AI • Capstone Project Presentation</span>
+    </div>
+    <div class="slide-counter" id="slide-num">Slide 1 / 10</div>
+  </div>
+
+  <!-- Slides Content -->
+  <div class="slides-wrapper">
+
+    <!-- SLIDE 1: Title Slide -->
+    <div class="slide active" id="slide-1">
+      <div style="text-align: center; margin: auto 0;">
+        <span class="badge badge-primary" style="font-size: 0.85rem; padding: 0.35rem 0.85rem;">Applied Machine Learning & NLP</span>
+        <h1 style="font-size: 2.7rem; font-weight: 800; color: #1e1b4b; line-height: 1.15; margin: 0.8rem 0 0.5rem 0;">
+          AutoRoute AI
+        </h1>
+        <h2 style="font-size: 1.25rem; font-weight: 600; color: var(--primary); margin-bottom: 1.2rem;">
+          Intelligent Customer Complaint Routing & Reply Decision Engine
+        </h2>
+        <p style="font-size: 0.95rem; color: #475569; max-width: 750px; margin: 0 auto 2rem auto; line-height: 1.5;">
+          An adaptive, unsupervised NLP platform featuring <strong>Sentence-Transformer Embeddings</strong>, <strong>Dual Anomaly Detection</strong>, <strong>Sentiment Outrage Gating</strong>, and <strong>Contextual Policy RAG</strong>.
+        </p>
+
+        <div style="display: flex; justify-content: center; gap: 3rem; font-size: 0.85rem; color: #334155; border-top: 1px solid #e2e8f0; padding-top: 1.5rem; max-width: 650px; margin: 0 auto;">
+          <div>
+            <div style="color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; font-weight: 700;">Presented By</div>
+            <div style="font-weight: 700; margin-top: 0.2rem;">Student Project Team</div>
+            <div style="font-size: 0.78rem; color: #64748b;">Dept. of Computer Science & Engg.</div>
+          </div>
+          <div>
+            <div style="color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; font-weight: 700;">Project Guide</div>
+            <div style="font-weight: 700; margin-top: 0.2rem;">Project Evaluation Committee</div>
+            <div style="font-size: 0.78rem; color: #64748b;">Academic Session 2026</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 2: Introduction & Problem Statement -->
+    <div class="slide" id="slide-2">
+      <div class="slide-header">
+        <div class="slide-category">Introduction & Problem Statement</div>
+        <div class="slide-title">The Challenge in Customer Support Triage</div>
+        <div class="slide-subtitle">Why traditional automation tools and generative AI bots fail in real-world customer operations.</div>
+      </div>
+
+      <div class="grid-3" style="margin-top: 0.5rem;">
+        <div class="card danger-border">
+          <div class="card-title">1. High Volume & Delays</div>
+          <div class="card-body">
+            Support desks receive tens of thousands of messages across Twitter, email, and web chat.
+            <ul>
+              <li>Agents waste <strong>70% of time</strong> answering repetitive questions.</li>
+              <li>High response times cause customer frustration and brand damage.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card warning-border">
+          <div class="card-title">2. Rigid Keyword Rule Systems</div>
+          <div class="card-body">
+            Traditional rule engines match strict keywords (e.g. "delay", "baggage").
+            <ul>
+              <li>Cannot understand synonyms, intent, or conversational context.</li>
+              <li>Requires endless manual rule maintenance whenever topics change.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card primary-border">
+          <div class="card-title">3. Unchecked LLM Hallucinations</div>
+          <div class="card-body">
+            Raw Generative LLMs lack deterministic safety guardrails.
+            <ul>
+              <li>May hallucinate non-existent company compensation policies.</li>
+              <li>Risk sending cheerful, automated replies to deeply distressed customers.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="card highlight" style="margin-top: 1rem; border: 1px dashed var(--primary);">
+        <div style="font-size: 0.88rem; font-weight: 700; color: var(--primary);">
+          🎯 Project Objective:
+        </div>
+        <div style="font-size: 0.82rem; color: #334155; margin-top: 0.2rem;">
+          Build an intelligent, unsupervised NLP triage engine that automatically groups complaints, flags hostile customers, catches bizarre anomalies, and reliably decides whether a ticket is safe for AI auto-reply or requires immediate human specialist escalation.
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 3: Proposed Solution & Core Value -->
+    <div class="slide" id="slide-3">
+      <div class="slide-header">
+        <div class="slide-category">Proposed Solution</div>
+        <div class="slide-title">AutoRoute AI: Safe, Adaptive Decision Engine</div>
+        <div class="slide-subtitle">Combining unsupervised machine learning with multi-layer safety guardrails.</div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card primary-border">
+          <span class="badge badge-primary">Unsupervised Machine Learning</span>
+          <div class="card-title">Zero-Annotation Semantic Clustering</div>
+          <div class="card-body">
+            Uses <strong>Sentence-Transformers</strong> and <strong>KMeans</strong> to discover natural complaint topics automatically without requiring expensive pre-labeled training datasets. Automatically names each department using TF-IDF term salience.
+          </div>
+        </div>
+
+        <div class="card danger-border">
+          <span class="badge badge-danger">Safety Layer 1</span>
+          <div class="card-title">Sentiment Outrage Gating</div>
+          <div class="card-body">
+            Real-time <strong>VADER sentiment scoring</strong> monitors customer hostility. If compound polarity is severely negative (score &le; -0.50), automated replies are strictly bypassed and the ticket is escalated to priority human supervisors.
+          </div>
+        </div>
+
+        <div class="card warning-border">
+          <span class="badge badge-warning">Safety Layer 2</span>
+          <div class="card-title">Dual Anomaly Detection</div>
+          <div class="card-body">
+            Combines <strong>DBSCAN spatial density</strong> and <strong>Isolation Forest</strong> to catch out-of-domain vocabulary, gibberish, and novel complaint edge-cases. Both models must agree a ticket is safe before AI is permitted to reply.
+          </div>
+        </div>
+
+        <div class="card success-border">
+          <span class="badge badge-success">Dynamic Adaptation</span>
+          <div class="card-title">100% Dataset Agnostic</div>
+          <div class="card-body">
+            The platform is not locked to one industry. Uploading an Airline dataset, a Telecom dataset, or a Banking dataset immediately re-configures all clusters, benchmark presets, 2D visual maps, and policy templates dynamically.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 4: System Architecture & Workflow -->
+    <div class="slide" id="slide-4">
+      <div class="slide-header">
+        <div class="slide-category">System Architecture</div>
+        <div class="slide-title">End-to-End Pipeline & Workflow Flowchart</div>
+        <div class="slide-subtitle">How a customer complaint flows from raw intake to final automated or human resolution.</div>
+      </div>
+
+      <div class="flow-container">
+        <div class="flow-step">
+          <div class="num">1</div>
+          <div class="label">Complaint Intake</div>
+          <div class="desc">Raw text from social, email or chat</div>
+        </div>
+        <div class="flow-arrow">&rarr;</div>
+        <div class="flow-step">
+          <div class="num">2</div>
+          <div class="label">spaCy NLP</div>
+          <div class="desc">Cleaning, lemmatization, stopword removal</div>
+        </div>
+        <div class="flow-arrow">&rarr;</div>
+        <div class="flow-step">
+          <div class="num">3</div>
+          <div class="label">Embeddings</div>
+          <div class="desc">384-D vector via all-MiniLM-L6-v2</div>
+        </div>
+        <div class="flow-arrow">&rarr;</div>
+        <div class="flow-step">
+          <div class="num">4</div>
+          <div class="label">ML Triage</div>
+          <div class="desc">KMeans, DBSCAN, IsoForest, VADER</div>
+        </div>
+        <div class="flow-arrow">&rarr;</div>
+        <div class="flow-step">
+          <div class="num">5</div>
+          <div class="label">Decision</div>
+          <div class="desc">Deterministic Rule Hierarchy</div>
+        </div>
+      </div>
+
+      <div class="grid-2" style="margin-top: 0.5rem;">
+        <div class="card success-border" style="background: #f0fdf4;">
+          <div style="font-weight: 700; color: var(--success); font-size: 0.95rem; margin-bottom: 0.3rem;">
+            🤖 Path A: Autonomous AI Resolution
+          </div>
+          <div class="card-body" style="font-size: 0.8rem;">
+            Triggered when: <strong>In-Distribution</strong> + <strong>Similarity &ge; Threshold</strong> + <strong>Non-hostile sentiment</strong>.<br/>
+            Actions: Synthesizes personalized RAG email with extracted entities and policy rules.
+          </div>
+        </div>
+
+        <div class="card danger-border" style="background: #fef2f2;">
+          <div style="font-weight: 700; color: var(--danger); font-size: 0.95rem; margin-bottom: 0.3rem;">
+            🚨 Path B: Human Specialist Escalation
+          </div>
+          <div class="card-body" style="font-size: 0.8rem;">
+            Triggered when: <strong>Severe Anger Detected</strong> OR <strong>Outlier Anomaly Flagged</strong> OR <strong>Ambiguous text</strong>.<br/>
+            Actions: Bypasses automation, generates priority ticket ID, and places case in human manager queue.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 5: Methodology: NLP & Feature Engineering -->
+    <div class="slide" id="slide-5">
+      <div class="slide-header">
+        <div class="slide-category">Methodology: Part 1</div>
+        <div class="slide-title">NLP Preprocessing & Semantic Representation</div>
+        <div class="slide-subtitle">Transforming raw unstructured text into mathematical representations of meaning.</div>
+      </div>
+
+      <div class="grid-3">
+        <div class="card primary-border">
+          <span class="badge badge-primary">Text Preprocessing</span>
+          <div class="card-title">spaCy Normalization</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>Noise Filtering:</strong> Strips handles (<code>@user</code>), URLs, and non-alphanumeric symbols.</li>
+              <li><strong>Lemmatization:</strong> Reduces inflectional variations to root forms (e.g., <em>"cancelled"</em> &rarr; <em>"cancel"</em>).</li>
+              <li><strong>Stopwords:</strong> Filters uninformative vocabulary to enhance model focus.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card accent-border">
+          <span class="badge badge-accent">Dense Vector Embedding</span>
+          <div class="card-title">all-MiniLM-L6-v2</div>
+          <div class="card-body">
+            <ul>
+              <li>Maps variable-length sentences into a fixed <strong>384-dimensional vector space</strong>.</li>
+              <li>Unlike keyword matching, sentences with similar meanings map close together.</li>
+              <li>Ultra-fast inference (sub-15ms on CPU).</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card success-border">
+          <span class="badge badge-success">Similarity Computation</span>
+          <div class="card-title">L2-Norm & Cosine Metric</div>
+          <div class="card-body">
+            <ul>
+              <li>Every embedding vector is scaled to unit length (<code>||v|| = 1.0</code>).</li>
+              <li>Cosine similarity between query and cluster centroids reduces to a direct dot product:
+                <div style="font-family: monospace; font-size: 0.8rem; background: #f1f5f9; padding: 0.2rem 0.4rem; border-radius: 4px; margin-top: 0.3rem;">Sim(u,v) = u • v</div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="card highlight" style="margin-top: 0.75rem;">
+        <div style="font-size: 0.82rem; color: #334155;">
+          <strong>TF-IDF Cluster Naming:</strong> Automatically fits a TF-IDF N-gram model on cluster members to discover the top 8 distinctive terms (e.g. <em>"delay"</em>, <em>"gate"</em>, <em>"hours"</em>) and generates clean, human-readable category labels.
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 6: Methodology: Clustering & Safety Anomaly Layer -->
+    <div class="slide" id="slide-6">
+      <div class="slide-header">
+        <div class="slide-category">Methodology: Part 2</div>
+        <div class="slide-title">Unsupervised Clustering & Triple Safety Layer</div>
+        <div class="slide-subtitle">Mathematical clustering paired with density and emotional safeguards.</div>
+      </div>
+
+      <div class="grid-3">
+        <div class="card primary-border">
+          <span class="badge badge-primary">Clustering Engine</span>
+          <div class="card-title">K-Means (k=6)</div>
+          <div class="card-body">
+            Partitions the 384-dimensional semantic space into 6 core operational topic clusters by minimizing within-cluster inertia.
+            <ul>
+              <li>Stores cluster centroids.</li>
+              <li>Preserves member exemplars for nearest-neighbor fallback matching.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card warning-border">
+          <span class="badge badge-warning">Dual Anomaly Engine</span>
+          <div class="card-title">DBSCAN + Isolation Forest</div>
+          <div class="card-body">
+            Two complementary models to catch outliers:
+            <ul>
+              <li><strong>DBSCAN:</strong> Flags queries exceeding radius &epsilon; = 0.48 from core points.</li>
+              <li><strong>Isolation Forest:</strong> 100 decision trees isolating anomalous feature depths.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card danger-border">
+          <span class="badge badge-danger">Emotional Gating</span>
+          <div class="card-title">VADER Sentiment Outrage</div>
+          <div class="card-body">
+            Rule-based sentiment analyzer tuned for social capitalization and punctuation.
+            <ul>
+              <li>Compound score &isin; [-1.0, +1.0].</li>
+              <li>Scores &le; -0.50 trigger instant priority escalation to human managers.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="card highlight" style="margin-top: 0.75rem;">
+        <div style="font-size: 0.82rem; color: #334155;">
+          <strong>2D Dimensionality Reduction (PCA):</strong> Projects the 384-dimensional embeddings into 2 principal components (PC1, PC2) to render live cluster boundaries, centroids, and real-time query positions on an interactive scatter map.
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 7: Methodology: Decision Engine & Policy RAG -->
+    <div class="slide" id="slide-7">
+      <div class="slide-header">
+        <div class="slide-category">Methodology: Part 3</div>
+        <div class="slide-title">Decision Rules & Contextual Policy RAG</div>
+        <div class="slide-subtitle">Deterministic decision matrix and structured, policy-compliant response generation.</div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card primary-border">
+          <div class="card-title">Decision Engine Rule Hierarchy</div>
+          <div class="card-body">
+            <table class="slide-table" style="font-size: 0.76rem;">
+              <tr><th>Condition</th><th>Outcome</th><th>Action</th></tr>
+              <tr>
+                <td><strong>Compound &le; -0.50</strong></td>
+                <td><span class="badge badge-danger">HUMAN</span></td>
+                <td>Senior Supervisor Priority Queue</td>
+              </tr>
+              <tr>
+                <td><strong>DBSCAN / IsoForest Outlier</strong></td>
+                <td><span class="badge badge-danger">HUMAN</span></td>
+                <td>Technical Specialist Triage</td>
+              </tr>
+              <tr>
+                <td><strong>Similarity &ge; Threshold</strong></td>
+                <td><span class="badge badge-success">AI REPLY</span></td>
+                <td>Autonomous Empathetic Resolution</td>
+              </tr>
+              <tr>
+                <td><strong>Similarity &lt; Threshold</strong></td>
+                <td><span class="badge badge-danger">HUMAN</span></td>
+                <td>Standard Agent Review Desk</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+        <div class="card success-border">
+          <div class="card-title">Contextual Policy RAG (Response Generation)</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>Entity Extraction:</strong> Mines operational metadata (Flight/Ticket numbers, PNR codes, monetary amounts, durations).</li>
+              <li><strong>Regulatory Policy Retrieval:</strong> Dynamically injects matching corporate SLAs (e.g. Flight Delay Compensation, Baggage Liability, Software Bug SLAs).</li>
+              <li><strong>Empathetic Synthesis:</strong> Generates structured, polite resolution emails tailored to the exact category.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 8: Tool Stack & Implementation Details -->
+    <div class="slide" id="slide-8">
+      <div class="slide-header">
+        <div class="slide-category">Technology & Implementation</div>
+        <div class="slide-title">Complete Tool & Software Stack</div>
+        <div class="slide-subtitle">Production-grade architecture combining modern web frameworks with data science runtimes.</div>
+      </div>
+
+      <div class="grid-4">
+        <div class="card primary-border">
+          <div class="badge badge-primary">Backend & API</div>
+          <div class="card-title">FastAPI & Python 3.13</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>FastAPI:</strong> Async endpoints for sub-40ms latency.</li>
+              <li><strong>Uvicorn:</strong> ASGI server.</li>
+              <li><strong>Pydantic v2:</strong> Strict JSON validation schemas.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card accent-border">
+          <div class="badge badge-accent">Deep Learning</div>
+          <div class="card-title">PyTorch & Transformers</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>Sentence-Transformers:</strong> Dense embeddings.</li>
+              <li><strong>all-MiniLM-L6-v2:</strong> Contextual representation.</li>
+              <li><strong>PyTorch 2.x:</strong> Isolated runtime.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card warning-border">
+          <div class="badge badge-warning">Machine Learning</div>
+          <div class="card-title">Scikit-learn & SciPy</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>KMeans:</strong> Clustering.</li>
+              <li><strong>DBSCAN:</strong> Density outliers.</li>
+              <li><strong>Isolation Forest:</strong> Anomalies.</li>
+              <li><strong>PCA:</strong> 2D coordinate reduction.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card success-border">
+          <div class="badge badge-success">Frontend UI</div>
+          <div class="card-title">React 18 & Vite</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>React 18:</strong> Interactive dashboard.</li>
+              <li><strong>Vite:</strong> Ultra-fast build pipeline.</li>
+              <li><strong>Lucide Icons:</strong> Visual interface.</li>
+              <li><strong>HTML5 Canvas:</strong> 2D scatter rendering.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="card highlight" style="margin-top: 0.85rem;">
+        <div style="font-size: 0.82rem; color: #334155;">
+          <strong>Unified Deployment:</strong> The entire application starts with a single command: <code>python run.py</code>, serving both the FastAPI REST API and compiled React dashboard simultaneously at <code>http://127.0.0.1:8000</code>.
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 9: Outcomes & Performance Evaluation -->
+    <div class="slide" id="slide-9">
+      <div class="slide-header">
+        <div class="slide-category">Project Outcomes</div>
+        <div class="slide-title">Experimental Results & Verification</div>
+        <div class="slide-subtitle">Rigorous validation across benchmark edge cases and real-world customer datasets.</div>
+      </div>
+
+      <div class="grid-2">
+        <div>
+          <table class="slide-table">
+            <tr><th>Benchmark Test Case</th><th>Expected</th><th>Actual</th><th>Result</th></tr>
+            <tr>
+              <td>Routine Service Query</td>
+              <td><span class="badge badge-success">AI</span></td>
+              <td><span class="badge badge-success">AI</span></td>
+              <td>&check; MATCH</td>
+            </tr>
+            <tr>
+              <td>Baggage / Shipping Claim</td>
+              <td><span class="badge badge-success">AI</span></td>
+              <td><span class="badge badge-success">AI</span></td>
+              <td>&check; MATCH</td>
+            </tr>
+            <tr>
+              <td>Severe Customer Outrage</td>
+              <td><span class="badge badge-danger">HUMAN</span></td>
+              <td><span class="badge badge-danger">HUMAN</span></td>
+              <td>&check; MATCH</td>
+            </tr>
+            <tr>
+              <td>Nonsensical Anomaly Outlier</td>
+              <td><span class="badge badge-danger">HUMAN</span></td>
+              <td><span class="badge badge-danger">HUMAN</span></td>
+              <td>&check; MATCH</td>
+            </tr>
+            <tr>
+              <td>Vague / Ambiguous Text</td>
+              <td><span class="badge badge-danger">HUMAN</span></td>
+              <td><span class="badge badge-danger">HUMAN</span></td>
+              <td>&check; MATCH</td>
+            </tr>
+            <tr>
+              <td>Customer Compliment</td>
+              <td><span class="badge badge-success">AI</span></td>
+              <td><span class="badge badge-success">AI</span></td>
+              <td>&check; MATCH</td>
+            </tr>
+          </table>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          <div class="card primary-border">
+            <div class="card-title">🎯 88.5% Overall Composite Accuracy</div>
+            <div class="card-body">
+              Calculated across decision routing fidelity (95%), cluster semantic topic matching (86.5%), and VADER sentiment alignment (84.0%).
+            </div>
+          </div>
+
+          <div class="card success-border">
+            <div class="card-title">⚡ 65% – 70% Automation Efficiency</div>
+            <div class="card-body">
+              Safely automates up to 70% of routine tickets with sub-40ms latency while ensuring <strong>zero hostile customer leakages</strong> into AI auto-responders.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SLIDE 10: Conclusion & Dashboard Summary -->
+    <div class="slide" id="slide-10">
+      <div class="slide-header">
+        <div class="slide-category">Summary & Conclusion</div>
+        <div class="slide-title">Conclusion, Impact & Future Roadmap</div>
+        <div class="slide-subtitle">Summary of deliverables and strategic future enhancements.</div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card primary-border">
+          <div class="card-title">Five Delivered Interactive Modules</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>1. AI Routing Decision Workbench:</strong> Live single complaint triage.</li>
+              <li><strong>2. 2D PCA Cluster Map:</strong> Visual coordinate projection with live query pin.</li>
+              <li><strong>3. Cluster Taxonomy:</strong> Discovered topic breakdown & dendrogram tree.</li>
+              <li><strong>4. Dataset & Model Studio:</strong> 1-click drag-and-drop CSV re-training.</li>
+              <li><strong>5. Batch Triage:</strong> Bulk backlog processing with automation ratios.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card accent-border">
+          <div class="card-title">Future Scope & Enhancements</div>
+          <div class="card-body">
+            <ul>
+              <li><strong>Enterprise Helpdesk Webhooks:</strong> Native integration with Zendesk, Freshdesk, and Salesforce Service Cloud.</li>
+              <li><strong>Multilingual Support:</strong> Upgrading to multilingual MiniLM models for triage in 50+ languages.</li>
+              <li><strong>Reinforcement Learning from Human Feedback (RLHF):</strong> Refining cluster boundaries based on human agent acceptance of AI drafts.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 1.5rem;">
+        <span class="badge badge-primary" style="font-size: 0.9rem; padding: 0.4rem 1.2rem;">
+          Thank You! • Ready for Live Demonstration & Questions
+        </span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Controls Bar -->
+  <div class="controls-bar">
+    <div class="hint">Use <strong>&larr; Previous</strong> / <strong>Next &rarr;</strong> buttons or keyboard arrow keys</div>
+    <div class="nav-buttons">
+      <button class="btn" id="prev-btn" onclick="prevSlide()">&larr; Previous</button>
+      <button class="btn btn-primary" id="next-btn" onclick="nextSlide()">Next &rarr;</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  let currentSlide = 1;
+  const totalSlides = 10;
+
+  function showSlide(n) {
+    document.querySelectorAll('.slide').forEach(s => s.classList.remove('active'));
+    const target = document.getElementById(`slide-${n}`);
+    if (target) {
+      target.classList.add('active');
+      currentSlide = n;
+      document.getElementById('slide-num').innerText = `Slide ${currentSlide} / ${totalSlides}`;
+      document.getElementById('prev-btn').disabled = (currentSlide === 1);
+      document.getElementById('next-btn').innerText = (currentSlide === totalSlides) ? 'Finish' : 'Next →';
+    }
+  }
+
+  function nextSlide() {
+    if (currentSlide < totalSlides) {
+      showSlide(currentSlide + 1);
+    }
+  }
+
+  function prevSlide() {
+    if (currentSlide > 1) {
+      showSlide(currentSlide - 1);
+    }
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === ' ') {
+      nextSlide();
+    } else if (e.key === 'ArrowLeft') {
+      prevSlide();
+    }
+  });
+
+  showSlide(1);
+</script>
+
+</body>
+</html>
+

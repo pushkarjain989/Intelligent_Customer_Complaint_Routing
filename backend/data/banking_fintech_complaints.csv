@@ -1,0 +1,1201 @@
+complaint_id,text,domain,category
+BANK-2008,Someone used my debit card number to buy electronics online for $85.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2235,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Phoenix that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2551,"Same-day wire fee of $1,200.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2027,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in New York that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2327,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2705,"Sent international wire transfer of $4,800.00 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2671,"Recipient bank claims wire TXN-894029 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2729,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2635,"Sent international wire transfer of $1,200.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2590,"Same-day wire fee of $1,200.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2317,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3026,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2653,ACH direct deposit from my employer has not posted to my account. Reference number TXN-309700.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3077,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3129,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2918,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3023,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2231,"Unrecognized POS terminal charge of $4,800.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2557,"Recipient bank claims wire TXN-728896 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2245,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2787,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2186,Suspicious international charge of $85.00 appearing on my credit statement under reference TXN-200488.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2158,"My wallet was stolen in Dallas and thief made $2,500.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2154,Unrecognized POS terminal charge of $750.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2202,"Someone used my debit card number to buy electronics online for $4,800.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2879,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2126,"Suspicious international charge of $1,200.00 appearing on my credit statement under reference TXN-574386.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2403,"ATM in Charlotte failed to dispense cash, but my checking account was debited $320.50! Trace ID TXN-799459.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3121,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2999,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2928,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2261,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2432,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2201,"Fraud alert! Unauthorized credit card charge of $2,500.00 from merchant in Chicago that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3016,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3082,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2339,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2043,Fraud alert! Unauthorized credit card charge of $85.00 from merchant in Miami that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2251,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2047,My wallet was stolen in Phoenix and thief made $85.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3164,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3190,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2413,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2190,"Someone used my debit card number to buy electronics online for $1,200.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2006,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3096,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3005,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2552,Outgoing wire transfer of $750.00 is stuck on pending status for 5 days with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2994,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2170,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2406,Emergency cash disbursement request failed at ATM terminal TXN-149334. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2528,"Sent international wire transfer of $150.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2159,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3019,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2191,My wallet was stolen in Charlotte and thief made $150.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2543,"Recipient bank claims wire TXN-586758 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2274,"Requested $1,200.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $1,200.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2877,Unfair late payment penalty of $320.50 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2442,"ATM in New York failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-570534.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2071,Fraud alert! Unauthorized credit card charge of $85.00 from merchant in Charlotte that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2978,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2486,ACH direct deposit from my employer has not posted to my account. Reference number TXN-888669.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2571,Outgoing wire transfer of $85.00 is stuck on pending status for 3 business days with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3133,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3034,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2846,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $1,200.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2187,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2304,"ATM in San Francisco failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-216211.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3142,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2639,"Sent international wire transfer of $750.00 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2810,Unfair late payment penalty of $150.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2035,Fraud alert! Unauthorized credit card charge of $85.00 from merchant in Miami that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2628,"Outgoing wire transfer of $1,200.00 is stuck on pending status for 1 week with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3189,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2779,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2331,"ATM in Phoenix failed to dispense cash, but my checking account was debited $320.50! Trace ID TXN-432731.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2131,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2494,ACH direct deposit from my employer has not posted to my account. Reference number TXN-663646.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3006,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2401,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3184,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2866,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2179,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2632,"Recipient bank claims wire TXN-580067 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2350,Requested $150.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $150.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2901,Submitted auto loan refinancing paperwork 2 weeks ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2122,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2119,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-154067.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2977,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3068,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3087,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2988,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2807,Payoff quote request for vehicle loan account TXN-359520 has been ignored for 24 hours.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3156,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2472,"Same-day wire fee of $2,500.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2278,"ATM in Miami failed to dispense cash, but my checking account was debited $85.00! Trace ID TXN-429153.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2207,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2048,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in New York that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2400,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3150,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2702,Outgoing wire transfer of $750.00 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2121,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2649,Same-day wire fee of $85.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3032,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2969,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3086,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2435,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3137,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3102,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2710,Payoff quote request for vehicle loan account TXN-914419 has been ignored for 5 days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2538,"Sent international wire transfer of $85.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2398,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3081,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2298,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2995,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2603,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3131,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2976,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2096,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2002,Suspicious international charge of $320.50 appearing on my credit statement under reference TXN-936997.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2226,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2734,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2629,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2796,Payoff quote request for vehicle loan account TXN-635392 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2656,ACH direct deposit from my employer has not posted to my account. Reference number TXN-146150.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2392,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2427,"ATM in Charlotte failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-512369.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2182,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-539892.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2613,ACH direct deposit from my employer has not posted to my account. Reference number TXN-446292.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2374,"ATM in Dallas failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-536471.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2525,"Recipient bank claims wire TXN-387347 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2462,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3101,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2661,"Recipient bank claims wire TXN-323103 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2211,Someone used my debit card number to buy electronics online for $150.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2805,Payoff quote request for vehicle loan account TXN-734330 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2382,ATM terminal timed out during cash deposit. The machine took my $320.50 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2155,"Fraud alert! Unauthorized credit card charge of $2,500.00 from merchant in San Francisco that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2568,Same-day wire fee of $150.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2347,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2951,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2433,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2855,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3072,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2794,Unfair late payment penalty of $320.50 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2874,Submitted auto loan refinancing paperwork 1 week ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2887,Unfair late payment penalty of $150.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2604,ACH direct deposit from my employer has not posted to my account. Reference number TXN-858472.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2839,"Unfair late payment penalty of $1,200.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2963,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3037,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2532,"Recipient bank claims wire TXN-552931 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2871,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2213,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2537,"Sent international wire transfer of $85.00 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3130,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2683,Same-day wire fee of $750.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2359,"ATM in San Francisco failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-972470.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2453,Emergency cash disbursement request failed at ATM terminal TXN-233299. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2911,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2655,"Sent international wire transfer of $4,800.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2864,Payoff quote request for vehicle loan account TXN-759457 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2011,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2888,Payoff quote request for vehicle loan account TXN-163746 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2455,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2445,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2744,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-3166,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2890,Payoff quote request for vehicle loan account TXN-502810 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2762,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2102,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2991,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2522,"Sent international wire transfer of $4,800.00 2 weeks ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3139,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3128,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2819,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2414,Emergency cash disbursement request failed at ATM terminal TXN-739270. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2066,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2843,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2372,Emergency cash disbursement request failed at ATM terminal TXN-185741. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2971,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2677,"Outgoing wire transfer of $2,500.00 is stuck on pending status for 3 business days with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3098,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2780,Payoff quote request for vehicle loan account TXN-700815 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2394,"ATM in Phoenix failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-653971.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2373,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2501,"Same-day wire fee of $2,500.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2239,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2175,My wallet was stolen in New York and thief made $150.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2733,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2791,Payoff quote request for vehicle loan account TXN-369232 has been ignored for 24 hours.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2228,Someone used my debit card number to buy electronics online for $85.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3188,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2681,"Sent international wire transfer of $320.50 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2834,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2643,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2607,ACH direct deposit from my employer has not posted to my account. Reference number TXN-549622.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2974,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2904,Payoff quote request for vehicle loan account TXN-211613 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2782,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2606,"Recipient bank claims wire TXN-457207 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2330,Emergency cash disbursement request failed at ATM terminal TXN-616780. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2599,Outgoing wire transfer of $85.00 is stuck on pending status for 2 weeks with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2029,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2948,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2169,Unrecognized POS terminal charge of $320.50 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3004,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2083,Unrecognized POS terminal charge of $85.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2526,Outgoing wire transfer of $150.00 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3079,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2881,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2195,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2193,My wallet was stolen in Dallas and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2666,ACH direct deposit from my employer has not posted to my account. Reference number TXN-448176.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2384,"ATM in New York failed to dispense cash, but my checking account was debited $320.50! Trace ID TXN-829842.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2902,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2458,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2889,Payoff quote request for vehicle loan account TXN-638430 has been ignored for 24 hours.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3171,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2355,ATM terminal timed out during cash deposit. The machine took my $320.50 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2651,Outgoing wire transfer of $150.00 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2363,"ATM terminal timed out during cash deposit. The machine took my $1,200.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2859,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2203,Suspicious international charge of $85.00 appearing on my credit statement under reference TXN-130680.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2456,Emergency cash disbursement request failed at ATM terminal TXN-993719. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2524,"Sent international wire transfer of $85.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3172,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2857,Unfair late payment penalty of $150.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2814,Payoff quote request for vehicle loan account TXN-395694 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3183,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2997,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2896,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2863,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2777,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2168,My wallet was stolen in Phoenix and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3108,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3143,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2089,Fraud alert! Unauthorized credit card charge of $85.00 from merchant in Charlotte that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2421,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2341,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2149,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2281,Emergency cash disbursement request failed at ATM terminal TXN-912767. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2318,Requested $320.50 cash withdrawal at ATM; machine only gave me $40 but debited the full $320.50 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2157,"Fraud alert! Unauthorized credit card charge of $2,500.00 from merchant in Chicago that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2536,"Sent international wire transfer of $150.00 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2176,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-617000.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2535,ACH direct deposit from my employer has not posted to my account. Reference number TXN-176452.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2763,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2459,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2293,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3148,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2156,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3141,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2272,Emergency cash disbursement request failed at ATM terminal TXN-347600. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2558,Outgoing wire transfer of $150.00 is stuck on pending status for 5 days with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2222,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2001,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3165,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2544,"Sent international wire transfer of $2,500.00 2 weeks ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3092,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2429,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2412,Emergency cash disbursement request failed at ATM terminal TXN-733643. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2254,"ATM in Chicago failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-947591.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2095,"My wallet was stolen in New York and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2514,"Sent international wire transfer of $85.00 2 weeks ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2476,"Same-day wire fee of $2,500.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2803,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2645,"Sent international wire transfer of $750.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2100,"Someone used my debit card number to buy electronics online for $1,200.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3155,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2192,My wallet was stolen in Dallas and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2362,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2913,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2004,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2812,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $2,500.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2097,"My wallet was stolen in London and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2162,Suspicious international charge of $320.50 appearing on my credit statement under reference TXN-567220.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2697,"Recipient bank claims wire TXN-422763 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2438,Emergency cash disbursement request failed at ATM terminal TXN-721285. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2517,ACH direct deposit from my employer has not posted to my account. Reference number TXN-961010.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2690,"Recipient bank claims wire TXN-120773 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2703,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2467,"Requested $1,200.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $1,200.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2262,Requested $320.50 cash withdrawal at ATM; machine only gave me $40 but debited the full $320.50 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2919,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3159,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2171,"My wallet was stolen in Miami and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2259,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2920,Payoff quote request for vehicle loan account TXN-565909 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2167,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3013,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2882,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2498,ACH direct deposit from my employer has not posted to my account. Reference number TXN-713583.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2405,ATM terminal timed out during cash deposit. The machine took my $320.50 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2691,"Sent international wire transfer of $2,500.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2329,"ATM in Miami failed to dispense cash, but my checking account was debited $320.50! Trace ID TXN-708684.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2470,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2766,Submitted auto loan refinancing paperwork 2 weeks ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3040,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2575,"Outgoing wire transfer of $4,800.00 is stuck on pending status for 2 weeks with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2667,"Recipient bank claims wire TXN-170793 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2308,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2446,Emergency cash disbursement request failed at ATM terminal TXN-710658. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2823,Payoff quote request for vehicle loan account TXN-853367 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2151,"Unrecognized POS terminal charge of $4,800.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2439,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3028,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2650,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2504,"Outgoing wire transfer of $2,500.00 is stuck on pending status for 3 business days with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2793,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $2,500.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2985,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2144,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-487629.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2104,Unrecognized POS terminal charge of $85.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2509,"Recipient bank claims wire TXN-804900 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3134,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2736,Payoff quote request for vehicle loan account TXN-608072 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3049,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2099,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-233391.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2647,"Sent international wire transfer of $1,200.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2701,ACH direct deposit from my employer has not posted to my account. Reference number TXN-354125.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2020,"My wallet was stolen in London and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2306,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2014,"My wallet was stolen in San Francisco and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2335,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2576,ACH direct deposit from my employer has not posted to my account. Reference number TXN-148439.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2598,ACH direct deposit from my employer has not posted to my account. Reference number TXN-807901.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2105,"My wallet was stolen in Phoenix and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2371,Emergency cash disbursement request failed at ATM terminal TXN-952308. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2906,Unfair late payment penalty of $320.50 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2707,ACH direct deposit from my employer has not posted to my account. Reference number TXN-970055.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2443,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3177,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2469,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2982,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2471,"ATM in Chicago failed to dispense cash, but my checking account was debited $320.50! Trace ID TXN-775192.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2696,"Recipient bank claims wire TXN-536019 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2114,My wallet was stolen in Phoenix and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3182,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2516,Outgoing wire transfer of $150.00 is stuck on pending status for 2 weeks with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3085,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2147,"Suspicious international charge of $1,200.00 appearing on my credit statement under reference TXN-227391.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2416,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2084,Someone used my debit card number to buy electronics online for $150.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2711,Submitted auto loan refinancing paperwork 1 week ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2177,"My wallet was stolen in Miami and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2591,"Recipient bank claims wire TXN-553515 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2706,"Same-day wire fee of $1,200.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3132,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3138,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2868,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2609,ACH direct deposit from my employer has not posted to my account. Reference number TXN-705561.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2654,"Sent international wire transfer of $4,800.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2107,"Someone used my debit card number to buy electronics online for $1,200.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2704,Same-day wire fee of $150.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2884,Payoff quote request for vehicle loan account TXN-464211 has been ignored for 5 days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2091,"Someone used my debit card number to buy electronics online for $1,200.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2163,My wallet was stolen in London and thief made $750.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3029,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2981,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2511,ACH direct deposit from my employer has not posted to my account. Reference number TXN-979908.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2218,"Suspicious international charge of $4,800.00 appearing on my credit statement under reference TXN-288006.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2688,ACH direct deposit from my employer has not posted to my account. Reference number TXN-593578.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2907,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3176,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2579,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2288,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2972,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2475,ACH direct deposit from my employer has not posted to my account. Reference number TXN-357201.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3107,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2152,Fraud alert! Unauthorized credit card charge of $320.50 from merchant in New York that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2798,"Unfair late payment penalty of $2,500.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2049,My wallet was stolen in Dallas and thief made $750.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2965,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2891,Payoff quote request for vehicle loan account TXN-384682 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2409,"ATM in Chicago failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-747561.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2389,ATM terminal timed out during cash deposit. The machine took my $320.50 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2090,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in Chicago that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2224,Unrecognized POS terminal charge of $750.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2546,"Sent international wire transfer of $4,800.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2946,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3195,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2332,Requested $320.50 cash withdrawal at ATM; machine only gave me $40 but debited the full $320.50 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2479,"Outgoing wire transfer of $2,500.00 is stuck on pending status for 24 hours with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2954,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2927,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3083,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2003,"Fraud alert! Unauthorized credit card charge of $4,800.00 from merchant in Miami that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2077,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2583,"Outgoing wire transfer of $1,200.00 is stuck on pending status for 1 week with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3169,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2548,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2513,"Sent international wire transfer of $320.50 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2093,Fraud alert! Unauthorized credit card charge of $320.50 from merchant in Chicago that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2503,Outgoing wire transfer of $320.50 is stuck on pending status for 1 week with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2931,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2935,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2244,"ATM in Charlotte failed to dispense cash, but my checking account was debited $85.00! Trace ID TXN-719145.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2802,Submitted auto loan refinancing paperwork 1 week ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2148,Someone used my debit card number to buy electronics online for $150.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2610,"Sent international wire transfer of $320.50 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2379,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2832,Payoff quote request for vehicle loan account TXN-817307 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2322,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2461,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2487,Same-day wire fee of $150.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2424,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3103,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3020,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3074,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3044,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2728,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2315,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2311,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2638,ACH direct deposit from my employer has not posted to my account. Reference number TXN-365045.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2415,"ATM in San Francisco failed to dispense cash, but my checking account was debited $750.00! Trace ID TXN-275160.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2172,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2463,"ATM in Miami failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-537859.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3094,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2680,"Sent international wire transfer of $320.50 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2858,"Unfair late payment penalty of $1,200.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-3054,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2813,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2872,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2699,"Recipient bank claims wire TXN-367657 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3175,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2735,Unfair late payment penalty of $320.50 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2821,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2271,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2578,"Sent international wire transfer of $85.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2067,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3114,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3088,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2353,"ATM in Phoenix failed to dispense cash, but my checking account was debited $150.00! Trace ID TXN-879930.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2844,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2534,"Outgoing wire transfer of $2,500.00 is stuck on pending status for 24 hours with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3167,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2618,ACH direct deposit from my employer has not posted to my account. Reference number TXN-308665.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2480,ACH direct deposit from my employer has not posted to my account. Reference number TXN-399212.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2051,Unrecognized POS terminal charge of $85.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2561,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2573,"Sent international wire transfer of $85.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2364,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2878,Unfair late payment penalty of $150.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2689,Same-day wire fee of $85.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2134,Someone used my debit card number to buy electronics online for $85.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3053,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3149,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2085,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2007,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2594,"Sent international wire transfer of $85.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3191,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-3036,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2101,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2395,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2521,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2323,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2253,"ATM terminal timed out during cash deposit. The machine took my $2,500.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2949,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2075,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in Charlotte that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2495,"Sent international wire transfer of $4,800.00 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3065,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2500,"Sent international wire transfer of $4,800.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2041,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2869,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2160,"Someone used my debit card number to buy electronics online for $1,200.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2174,My wallet was stolen in Phoenix and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2749,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2845,Payoff quote request for vehicle loan account TXN-261177 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2133,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-540538.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2827,"Unfair late payment penalty of $1,200.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2070,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2340,"ATM terminal timed out during cash deposit. The machine took my $1,200.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2738,Payoff quote request for vehicle loan account TXN-304553 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2637,"Sent international wire transfer of $1,200.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3090,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2465,Emergency cash disbursement request failed at ATM terminal TXN-239260. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2658,ACH direct deposit from my employer has not posted to my account. Reference number TXN-668016.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2713,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2611,"Recipient bank claims wire TXN-546399 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3173,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2064,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2880,Payoff quote request for vehicle loan account TXN-786141 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2423,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2291,"ATM in Miami failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-824233.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2488,"Outgoing wire transfer of $2,500.00 is stuck on pending status for 5 days with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2214,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in London that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2402,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2527,Outgoing wire transfer of $750.00 is stuck on pending status for 2 weeks with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2926,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2741,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2900,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2674,Same-day wire fee of $750.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2499,ACH direct deposit from my employer has not posted to my account. Reference number TXN-875089.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2468,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2588,"Sent international wire transfer of $1,200.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2989,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3185,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2180,"Fraud alert! Unauthorized credit card charge of $4,800.00 from merchant in London that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2040,My wallet was stolen in Chicago and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2185,"Suspicious international charge of $4,800.00 appearing on my credit statement under reference TXN-431570.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3012,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2585,ACH direct deposit from my employer has not posted to my account. Reference number TXN-312861.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2756,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2838,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2227,Fraud alert! Unauthorized credit card charge of $320.50 from merchant in London that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2123,Fraud alert! Unauthorized credit card charge of $85.00 from merchant in San Francisco that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2727,Unfair late payment penalty of $750.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2608,"Recipient bank claims wire TXN-994376 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2723,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2550,"Recipient bank claims wire TXN-638051 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2898,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2466,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2717,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2631,ACH direct deposit from my employer has not posted to my account. Reference number TXN-535214.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3146,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2336,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3115,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2300,"ATM in Dallas failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-468948.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3151,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2886,Payoff quote request for vehicle loan account TXN-628345 has been ignored for 24 hours.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2664,Same-day wire fee of $750.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2601,Outgoing wire transfer of $85.00 is stuck on pending status for 1 week with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2483,"Sent international wire transfer of $1,200.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2964,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3147,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2428,"ATM in Miami failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-762288.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2742,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2685,ACH direct deposit from my employer has not posted to my account. Reference number TXN-735281.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2811,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2721,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2648,"Outgoing wire transfer of $4,800.00 is stuck on pending status for 3 business days with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2542,"Same-day wire fee of $1,200.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2876,Payoff quote request for vehicle loan account TXN-907889 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2387,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2220,"Someone used my debit card number to buy electronics online for $4,800.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2352,"ATM in Dallas failed to dispense cash, but my checking account was debited $85.00! Trace ID TXN-940494.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2520,Same-day wire fee of $750.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2693,"Recipient bank claims wire TXN-396983 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2320,Requested $320.50 cash withdrawal at ATM; machine only gave me $40 but debited the full $320.50 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2216,My wallet was stolen in Phoenix and thief made $750.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3178,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2753,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2153,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2297,"ATM in London failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-963185.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2574,ACH direct deposit from my employer has not posted to my account. Reference number TXN-300992.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2377,Emergency cash disbursement request failed at ATM terminal TXN-371914. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2164,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2031,"Unrecognized POS terminal charge of $4,800.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2301,"ATM in Charlotte failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-898989.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3110,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3007,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2960,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2343,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2962,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2334,"Requested $2,500.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $2,500.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2025,"Unrecognized POS terminal charge of $4,800.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2146,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-570211.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3011,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2436,"ATM in Miami failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-636526.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2956,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2425,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2380,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2333,"ATM terminal timed out during cash deposit. The machine took my $1,200.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2903,"Unfair late payment penalty of $2,500.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2242,"Requested $2,500.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $2,500.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3051,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2523,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2115,Suspicious international charge of $85.00 appearing on my credit statement under reference TXN-757258.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2758,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $2,500.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2979,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2079,"Fraud alert! Unauthorized credit card charge of $2,500.00 from merchant in London that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2660,ACH direct deposit from my employer has not posted to my account. Reference number TXN-115722.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3170,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2709,Unfair late payment penalty of $150.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2686,Same-day wire fee of $85.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2912,Payoff quote request for vehicle loan account TXN-296972 has been ignored for 24 hours.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2361,Emergency cash disbursement request failed at ATM terminal TXN-543621. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2016,Suspicious international charge of $150.00 appearing on my credit statement under reference TXN-156964.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2263,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2597,Outgoing wire transfer of $750.00 is stuck on pending status for 2 weeks with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2062,"Fraud alert! Unauthorized credit card charge of $4,800.00 from merchant in London that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3162,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2659,ACH direct deposit from my employer has not posted to my account. Reference number TXN-324164.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2837,Unfair late payment penalty of $320.50 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3066,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2617,Same-day wire fee of $150.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2518,Outgoing wire transfer of $320.50 is stuck on pending status for 2 weeks with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3152,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2634,ACH direct deposit from my employer has not posted to my account. Reference number TXN-387075.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3140,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2238,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3120,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2150,Suspicious international charge of $85.00 appearing on my credit statement under reference TXN-890795.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3001,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3002,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2922,Unfair late payment penalty of $150.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2952,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3041,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2282,"ATM in Chicago failed to dispense cash, but my checking account was debited $85.00! Trace ID TXN-349641.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2264,Emergency cash disbursement request failed at ATM terminal TXN-289373. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2768,"Unfair late payment penalty of $1,200.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2451,"Requested $1,200.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $1,200.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3018,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3008,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2739,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3192,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2081,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in San Francisco that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3095,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2789,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3123,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2223,My wallet was stolen in Miami and thief made $85.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2992,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2491,"Same-day wire fee of $2,500.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2367,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2037,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Phoenix that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2477,"Sent international wire transfer of $1,200.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2009,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-114892.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2708,"Unfair late payment penalty of $2,500.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2017,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2473,Same-day wire fee of $150.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2687,"Recipient bank claims wire TXN-183902 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2183,Suspicious international charge of $85.00 appearing on my credit statement under reference TXN-655338.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2270,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3000,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2924,Payoff quote request for vehicle loan account TXN-977116 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2314,Emergency cash disbursement request failed at ATM terminal TXN-556297. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2127,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3161,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2817,Payoff quote request for vehicle loan account TXN-233769 has been ignored for 5 days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2750,Payoff quote request for vehicle loan account TXN-297296 has been ignored for 24 hours.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2275,"ATM in Miami failed to dispense cash, but my checking account was debited $320.50! Trace ID TXN-311802.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2370,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2642,"Recipient bank claims wire TXN-608306 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2795,Payoff quote request for vehicle loan account TXN-614266 has been ignored for 5 days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2039,"My wallet was stolen in San Francisco and thief made $2,500.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2404,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2943,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2345,Emergency cash disbursement request failed at ATM terminal TXN-289340. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2302,"ATM terminal timed out during cash deposit. The machine took my $1,200.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2555,Outgoing wire transfer of $85.00 is stuck on pending status for 3 business days with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2774,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3073,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2280,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3174,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2776,Payoff quote request for vehicle loan account TXN-280865 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2135,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2788,Payoff quote request for vehicle loan account TXN-828986 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2478,ACH direct deposit from my employer has not posted to my account. Reference number TXN-535092.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2390,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2166,Suspicious international charge of $150.00 appearing on my credit statement under reference TXN-597667.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2266,Emergency cash disbursement request failed at ATM terminal TXN-948228. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2531,Outgoing wire transfer of $150.00 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2778,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2586,ACH direct deposit from my employer has not posted to my account. Reference number TXN-420863.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2434,"ATM in Dallas failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-138766.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3027,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2818,Payoff quote request for vehicle loan account TXN-847868 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2897,Unfair late payment penalty of $85.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2397,Requested $320.50 cash withdrawal at ATM; machine only gave me $40 but debited the full $320.50 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2998,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3157,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3145,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3080,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2980,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2724,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3100,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2028,Fraud alert! Unauthorized credit card charge of $750.00 from merchant in London that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2221,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2605,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2268,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2344,Emergency cash disbursement request failed at ATM terminal TXN-322713. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2623,"Sent international wire transfer of $85.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2822,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3024,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2731,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2032,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Charlotte that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2716,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2676,Outgoing wire transfer of $85.00 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2809,Unfair late payment penalty of $750.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2545,ACH direct deposit from my employer has not posted to my account. Reference number TXN-213253.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3045,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2675,"Outgoing wire transfer of $4,800.00 is stuck on pending status for 24 hours with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2188,My wallet was stolen in Charlotte and thief made $150.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2816,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2748,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2909,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2045,Fraud alert! Unauthorized credit card charge of $320.50 from merchant in Miami that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2743,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2692,ACH direct deposit from my employer has not posted to my account. Reference number TXN-369789.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2391,"ATM in Phoenix failed to dispense cash, but my checking account was debited $85.00! Trace ID TXN-207650.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2019,"My wallet was stolen in Charlotte and thief made $2,500.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2507,"Same-day wire fee of $2,500.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2815,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2854,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3071,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2061,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2086,"Someone used my debit card number to buy electronics online for $4,800.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2307,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2393,ATM terminal timed out during cash deposit. The machine took my $320.50 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2785,Payoff quote request for vehicle loan account TXN-957171 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2284,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2276,"ATM in Charlotte failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-370948.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2967,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2916,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2856,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2116,Fraud alert! Unauthorized credit card charge of $750.00 from merchant in New York that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2464,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2831,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2450,Emergency cash disbursement request failed at ATM terminal TXN-522317. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2240,Emergency cash disbursement request failed at ATM terminal TXN-818666. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2835,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2145,Fraud alert! Unauthorized credit card charge of $320.50 from merchant in Dallas that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2381,Emergency cash disbursement request failed at ATM terminal TXN-952631. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2754,Submitted auto loan refinancing paperwork 2 weeks ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3126,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2566,"Sent international wire transfer of $320.50 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2312,ATM terminal timed out during cash deposit. The machine took my $320.50 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2915,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3109,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2140,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Miami that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2968,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2923,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3052,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2497,Same-day wire fee of $85.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3135,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2746,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2420,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2849,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2055,My wallet was stolen in Charlotte and thief made $150.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2865,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2515,ACH direct deposit from my employer has not posted to my account. Reference number TXN-345637.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2554,ACH direct deposit from my employer has not posted to my account. Reference number TXN-631741.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2883,Submitted auto loan refinancing paperwork 1 week ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2326,Requested $150.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $150.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2273,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2539,"Recipient bank claims wire TXN-157450 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2761,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2669,Same-day wire fee of $150.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2760,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2842,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-3196,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2309,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2730,"Unfair late payment penalty of $1,200.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2454,Emergency cash disbursement request failed at ATM terminal TXN-654844. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2225,"My wallet was stolen in Phoenix and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3069,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2722,Payoff quote request for vehicle loan account TXN-346184 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3124,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2210,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Phoenix that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2556,"Sent international wire transfer of $4,800.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3015,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3091,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2772,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2672,ACH direct deposit from my employer has not posted to my account. Reference number TXN-492716.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2125,My wallet was stolen in Chicago and thief made $750.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2673,ACH direct deposit from my employer has not posted to my account. Reference number TXN-494000.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3118,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2407,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3059,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3181,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-3105,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2250,Requested $150.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $150.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2670,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3136,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2830,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2321,Requested $150.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $150.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3104,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2289,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2184,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2930,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2129,Fraud alert! Unauthorized credit card charge of $750.00 from merchant in Charlotte that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3063,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2078,"My wallet was stolen in Charlotte and thief made $2,500.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2957,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2255,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2737,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2015,"My wallet was stolen in San Francisco and thief made $2,500.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2046,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-510339.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3186,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2549,"Sent international wire transfer of $2,500.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2770,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2765,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2422,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2232,Unrecognized POS terminal charge of $320.50 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2010,Someone used my debit card number to buy electronics online for $85.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2602,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2094,My wallet was stolen in San Francisco and thief made $150.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2237,"ATM in Miami failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-134455.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2243,Requested $150.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $150.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2059,"Suspicious international charge of $1,200.00 appearing on my credit statement under reference TXN-158777.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2447,"ATM in Phoenix failed to dispense cash, but my checking account was debited $150.00! Trace ID TXN-253672.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2351,Emergency cash disbursement request failed at ATM terminal TXN-575111. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3125,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2939,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-3111,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2630,"Recipient bank claims wire TXN-463627 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2917,Submitted auto loan refinancing paperwork 2 weeks ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2987,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2118,"Fraud alert! Unauthorized credit card charge of $2,500.00 from merchant in New York that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2933,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2562,"Outgoing wire transfer of $1,200.00 is stuck on pending status for 1 week with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2929,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2718,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2440,"ATM in Miami failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-982464.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3058,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3039,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3021,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2784,Payoff quote request for vehicle loan account TXN-293871 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2396,"ATM terminal timed out during cash deposit. The machine took my $2,500.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2053,Unrecognized POS terminal charge of $750.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2493,ACH direct deposit from my employer has not posted to my account. Reference number TXN-491438.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2565,Outgoing wire transfer of $150.00 is stuck on pending status for 3 business days with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3067,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2755,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2700,"Outgoing wire transfer of $1,200.00 is stuck on pending status for 24 hours with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2953,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2388,"ATM in London failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-274174.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2622,ACH direct deposit from my employer has not posted to my account. Reference number TXN-662511.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2895,Submitted auto loan refinancing paperwork 2 weeks ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3099,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2851,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2961,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2026,"Someone used my debit card number to buy electronics online for $4,800.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3179,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2021,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-656011.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2233,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-794255.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3197,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-3056,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2489,"Recipient bank claims wire TXN-168637 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2441,Emergency cash disbursement request failed at ATM terminal TXN-471692. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2358,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2665,"Sent international wire transfer of $4,800.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2984,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2519,Same-day wire fee of $150.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3199,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2850,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2106,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2042,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in Chicago that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2740,Payoff quote request for vehicle loan account TXN-589478 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2277,"ATM in New York failed to dispense cash, but my checking account was debited $150.00! Trace ID TXN-857568.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2132,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Charlotte that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2490,ACH direct deposit from my employer has not posted to my account. Reference number TXN-119527.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2564,"Sent international wire transfer of $320.50 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2082,Unrecognized POS terminal charge of $85.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2627,"Recipient bank claims wire TXN-167077 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2757,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2612,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2426,"Requested $1,200.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $1,200.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2925,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2354,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2036,My wallet was stolen in Miami and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3043,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3084,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2719,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2624,ACH direct deposit from my employer has not posted to my account. Reference number TXN-424803.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2577,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2824,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3010,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2505,"Outgoing wire transfer of $2,500.00 is stuck on pending status for 3 business days with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2241,Emergency cash disbursement request failed at ATM terminal TXN-995852. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3017,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2679,"Recipient bank claims wire TXN-646802 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2775,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2337,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2751,Unfair late payment penalty of $750.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2836,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2560,"Sent international wire transfer of $1,200.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2209,"My wallet was stolen in Charlotte and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2142,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3119,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2783,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2342,"ATM in Charlotte failed to dispense cash, but my checking account was debited $85.00! Trace ID TXN-313630.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2205,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2267,"ATM in Dallas failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-647639.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3062,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2346,ATM terminal timed out during cash deposit. The machine took my $150.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2033,"Unrecognized POS terminal charge of $4,800.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3003,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2668,"Same-day wire fee of $2,500.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2269,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2482,ACH direct deposit from my employer has not posted to my account. Reference number TXN-161775.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2973,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3116,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3061,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3070,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2058,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2937,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2408,Emergency cash disbursement request failed at ATM terminal TXN-133522. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2319,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2940,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2625,"Same-day wire fee of $2,500.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3042,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2934,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3127,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2589,"Same-day wire fee of $1,200.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2547,"Same-day wire fee of $1,200.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2076,"Unrecognized POS terminal charge of $4,800.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2294,ATM terminal timed out during cash deposit. The machine took my $85.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2161,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-112782.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2892,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2893,Payoff quote request for vehicle loan account TXN-577564 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3075,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2366,"ATM in Miami failed to dispense cash, but my checking account was debited $320.50! Trace ID TXN-940480.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3055,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2399,"ATM terminal timed out during cash deposit. The machine took my $2,500.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3163,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2848,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2296,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2841,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2229,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Charlotte that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2023,"Suspicious international charge of $4,800.00 appearing on my credit statement under reference TXN-380061.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2338,"ATM in Charlotte failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-593090.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3154,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2615,"Recipient bank claims wire TXN-213915 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2052,My wallet was stolen in San Francisco and thief made $320.50 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2236,"Requested $1,200.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $1,200.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2510,"Recipient bank claims wire TXN-967661 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2120,My wallet was stolen in Dallas and thief made $750.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2103,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2305,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2529,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3089,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2130,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in Miami that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2080,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Dallas that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2582,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2072,"My wallet was stolen in Charlotte and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3194,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2385,"ATM terminal timed out during cash deposit. The machine took my $1,200.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2640,"Recipient bank claims wire TXN-997343 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2437,Requested $150.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $150.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2449,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2068,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2820,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2141,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2873,"Unfair late payment penalty of $1,200.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2572,"Outgoing wire transfer of $4,800.00 is stuck on pending status for 3 business days with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2921,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2633,Same-day wire fee of $320.50 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2365,Emergency cash disbursement request failed at ATM terminal TXN-188049. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2360,"ATM terminal timed out during cash deposit. The machine took my $2,500.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2512,Outgoing wire transfer of $320.50 is stuck on pending status for 1 week with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2485,Outgoing wire transfer of $320.50 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2847,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2584,Outgoing wire transfer of $320.50 is stuck on pending status for 1 week with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3122,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2852,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2194,Suspicious international charge of $320.50 appearing on my credit statement under reference TXN-130156.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2508,"Sent international wire transfer of $85.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2540,"Sent international wire transfer of $750.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2657,"Outgoing wire transfer of $2,500.00 is stuck on pending status for 2 weeks with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2745,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $150.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2932,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2747,Unfair late payment penalty of $85.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2698,"Sent international wire transfer of $320.50 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2189,Someone used my debit card number to buy electronics online for $85.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2348,Emergency cash disbursement request failed at ATM terminal TXN-211222. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2073,Someone used my debit card number to buy electronics online for $150.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3106,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2559,"Recipient bank claims wire TXN-927527 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2581,"Same-day wire fee of $1,200.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2417,Emergency cash disbursement request failed at ATM terminal TXN-622600. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2792,Payoff quote request for vehicle loan account TXN-413081 has been ignored for 5 days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2368,"ATM terminal timed out during cash deposit. The machine took my $2,500.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2005,Someone used my debit card number to buy electronics online for $85.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2914,Payoff quote request for vehicle loan account TXN-243960 has been ignored for 24 hours.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2143,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in Charlotte that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2829,Payoff quote request for vehicle loan account TXN-818402 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2034,"Someone used my debit card number to buy electronics online for $4,800.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2208,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2098,Someone used my debit card number to buy electronics online for $320.50. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2684,ACH direct deposit from my employer has not posted to my account. Reference number TXN-856729.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2644,"Recipient bank claims wire TXN-960279 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2024,"Unrecognized POS terminal charge of $4,800.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2596,Outgoing wire transfer of $150.00 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2088,Suspicious international charge of $150.00 appearing on my credit statement under reference TXN-746781.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3193,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2808,Payoff quote request for vehicle loan account TXN-215333 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3113,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2541,"Recipient bank claims wire TXN-521195 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2833,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2444,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2165,Unrecognized POS terminal charge of $320.50 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2759,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2206,"Unrecognized POS terminal charge of $2,500.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2230,Unrecognized POS terminal charge of $750.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2292,"ATM terminal timed out during cash deposit. The machine took my $2,500.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2695,ACH direct deposit from my employer has not posted to my account. Reference number TXN-104383.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2448,"ATM in Charlotte failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-165214.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2502,"Same-day wire fee of $4,800.00 was charged but wire took 4 business days to clear!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2258,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2200,"Suspicious international charge of $4,800.00 appearing on my credit statement under reference TXN-145383.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3093,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2569,ACH direct deposit from my employer has not posted to my account. Reference number TXN-983825.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2587,ACH direct deposit from my employer has not posted to my account. Reference number TXN-983353.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2652,"Recipient bank claims wire TXN-904377 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2136,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-787614.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2386,Emergency cash disbursement request failed at ATM terminal TXN-300188. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2460,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2715,"Unfair late payment penalty of $1,200.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2110,"My wallet was stolen in New York and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2328,"ATM terminal timed out during cash deposit. The machine took my $2,500.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2178,"My wallet was stolen in Dallas and thief made $2,500.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2945,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2030,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in Chicago that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2860,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2646,"Sent international wire transfer of $150.00 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2621,Outgoing wire transfer of $150.00 is stuck on pending status for 1 week with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2383,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2781,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $1,200.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2452,ATM terminal timed out during cash deposit. The machine took my $320.50 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2074,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2767,Submitted auto loan refinancing paperwork 2 weeks ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2867,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2038,Suspicious international charge of $320.50 appearing on my credit statement under reference TXN-162976.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2117,My wallet was stolen in San Francisco and thief made $85.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2256,Emergency cash disbursement request failed at ATM terminal TXN-414070. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2626,"Recipient bank claims wire TXN-388820 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2063,Fraud alert! Unauthorized credit card charge of $320.50 from merchant in New York that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2065,Fraud alert! Unauthorized credit card charge of $85.00 from merchant in Charlotte that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3180,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2430,"Requested $2,500.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $2,500.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2996,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2773,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2786,Payoff quote request for vehicle loan account TXN-977809 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2356,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2215,"My wallet was stolen in Miami and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2484,"Sent international wire transfer of $750.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3033,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2662,Outgoing wire transfer of $150.00 is stuck on pending status for 2 weeks with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3097,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3022,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2217,"My wallet was stolen in London and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2197,Fraud alert! Unauthorized credit card charge of $85.00 from merchant in London that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2474,Same-day wire fee of $85.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2325,"ATM in San Francisco failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-154644.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2060,"Fraud alert! Unauthorized credit card charge of $4,800.00 from merchant in London that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2092,Someone used my debit card number to buy electronics online for $85.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2138,Suspicious international charge of $320.50 appearing on my credit statement under reference TXN-694806.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2826,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2712,Submitted auto loan refinancing paperwork 1 week ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2663,"Sent international wire transfer of $85.00 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2265,"ATM terminal timed out during cash deposit. The machine took my $4,800.00 envelope without printing a receipt.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2530,"Recipient bank claims wire TXN-178056 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3038,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2369,"ATM in Chicago failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-147285.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2966,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2771,Payoff quote request for vehicle loan account TXN-206900 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3168,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2139,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-337798.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2806,Submitted auto loan refinancing paperwork 1 week ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3076,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2570,ACH direct deposit from my employer has not posted to my account. Reference number TXN-497329.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2286,"Requested $2,500.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $2,500.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2941,Submitted auto loan refinancing paperwork 1 week ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2694,Outgoing wire transfer of $320.50 is stuck on pending status for 1 week with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2720,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2310,"ATM in San Francisco failed to dispense cash, but my checking account was debited $150.00! Trace ID TXN-685661.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2357,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2128,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3050,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2799,Payoff quote request for vehicle loan account TXN-326534 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2714,Unfair late payment penalty of $320.50 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2431,Emergency cash disbursement request failed at ATM terminal TXN-253995. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3030,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3025,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3187,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2324,Emergency cash disbursement request failed at ATM terminal TXN-368672. I am stranded with zero cash.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2018,"My wallet was stolen in San Francisco and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2567,ACH direct deposit from my employer has not posted to my account. Reference number TXN-374725.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2938,Unfair late payment penalty of $750.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2958,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2285,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2726,Payoff quote request for vehicle loan account TXN-898347 has been ignored for 5 days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2087,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-398911.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2910,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2069,Fraud alert! Unauthorized credit card charge of $750.00 from merchant in Charlotte that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2620,"Sent international wire transfer of $320.50 2 weeks ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2022,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-985249.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2797,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2246,Requested $750.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $750.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2936,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2580,"Sent international wire transfer of $320.50 1 week ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2057,"My wallet was stolen in Miami and thief made $1,200.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2303,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2870,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2853,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2950,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3153,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2790,Submitted auto loan refinancing paperwork 3 business days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2801,Payoff quote request for vehicle loan account TXN-367352 has been ignored for 5 days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2563,ACH direct deposit from my employer has not posted to my account. Reference number TXN-966212.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2752,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $85.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3009,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2204,Suspicious international charge of $320.50 appearing on my credit statement under reference TXN-707913.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2592,"Recipient bank claims wire TXN-432420 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2593,ACH direct deposit from my employer has not posted to my account. Reference number TXN-563143.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2983,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2975,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2410,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3047,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2349,"ATM in London failed to dispense cash, but my checking account was debited $4,800.00! Trace ID TXN-582589.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2492,"Recipient bank claims wire TXN-567646 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2290,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2378,"ATM in Chicago failed to dispense cash, but my checking account was debited $150.00! Trace ID TXN-106131.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2044,"My wallet was stolen in Charlotte and thief made $4,800.00 in contactless purchases before I could lock the mobile app.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2299,"ATM in Miami failed to dispense cash, but my checking account was debited $2,500.00! Trace ID TXN-964446.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2885,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $1,200.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2252,"ATM in New York failed to dispense cash, but my checking account was debited $750.00! Trace ID TXN-829765.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2899,Unfair late payment penalty of $750.00 assessed on mortgage when payment was submitted before the 15th grace period.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2533,Outgoing wire transfer of $320.50 is stuck on pending status for 24 hours with no explanation.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2481,"Sent international wire transfer of $4,800.00 5 days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2376,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2990,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2828,Payoff quote request for vehicle loan account TXN-866296 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2614,ACH direct deposit from my employer has not posted to my account. Reference number TXN-509611.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2249,"ATM in Miami failed to dispense cash, but my checking account was debited $150.00! Trace ID TXN-821411.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2113,"Suspicious international charge of $1,200.00 appearing on my credit statement under reference TXN-269662.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2800,Submitted auto loan refinancing paperwork 2 weeks ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2908,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3035,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2050,Suspicious international charge of $750.00 appearing on my credit statement under reference TXN-520075.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2970,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2212,"Suspicious international charge of $2,500.00 appearing on my credit statement under reference TXN-229620.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2418,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2506,"Recipient bank claims wire TXN-104487 was rejected due to intermediary routing error, but funds were never returned to my account.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2198,My wallet was stolen in Chicago and thief made $150.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3064,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2247,"Requested $4,800.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $4,800.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2313,"ATM in Chicago failed to dispense cash, but my checking account was debited $150.00! Trace ID TXN-485792.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2000,"Suspicious international charge of $1,200.00 appearing on my credit statement under reference TXN-661023.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2137,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2234,Suspicious international charge of $85.00 appearing on my credit statement under reference TXN-668787.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2411,Requested $320.50 cash withdrawal at ATM; machine only gave me $40 but debited the full $320.50 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2993,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2013,Unrecognized POS terminal charge of $85.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2636,Same-day wire fee of $85.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2616,"Outgoing wire transfer of $4,800.00 is stuck on pending status for 3 business days with no explanation.",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2316,Requested $320.50 cash withdrawal at ATM; machine only gave me $40 but debited the full $320.50 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2457,"Requested $2,500.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $2,500.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2279,"ATM in Chicago failed to dispense cash, but my checking account was debited $1,200.00! Trace ID TXN-526777.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3014,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2295,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3057,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2419,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2108,"Fraud alert! Unauthorized credit card charge of $1,200.00 from merchant in New York that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3046,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2248,Machine swallowed my debit card at the branch ATM on Main Street after showing out of service error.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2124,"Someone used my debit card number to buy electronics online for $2,500.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2678,"Sent international wire transfer of $2,500.00 3 business days ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2986,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2595,Same-day wire fee of $85.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2199,Unrecognized POS terminal charge of $150.00 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2682,"Sent international wire transfer of $320.50 2 weeks ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2219,Fraud alert! Unauthorized credit card charge of $150.00 from merchant in Chicago that I never visited.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2553,"Sent international wire transfer of $150.00 2 weeks ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2112,"Someone used my debit card number to buy electronics online for $1,200.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2173,"Fraud alert! Unauthorized credit card charge of $4,800.00 from merchant in Miami that I never visited.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2111,My wallet was stolen in Dallas and thief made $750.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2942,Payoff quote request for vehicle loan account TXN-616530 has been ignored for 2 weeks.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3060,Online banking balance showing negative balance due to duplicate pending authorization holds.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2947,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2012,Unrecognized POS terminal charge of $320.50 on my card. I demand immediate provisional credit.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2825,"Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $4,800.00 without justification.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2257,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2804,"Unfair late payment penalty of $2,500.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2109,"Unrecognized POS terminal charge of $1,200.00 on my card. I demand immediate provisional credit.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2600,Same-day wire fee of $750.00 was charged but wire took 4 business days to clear!,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-3158,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3112,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2260,"Requested $1,200.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $1,200.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2764,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3048,Biometric login glitch in iOS app version 4.2 causes immediate crash whenever viewing transaction history.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2496,ACH direct deposit from my employer has not posted to my account. Reference number TXN-100569.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2619,ACH direct deposit from my employer has not posted to my account. Reference number TXN-344359.,Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2287,"Requested $2,500.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $2,500.00 from my balance.",Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2181,Someone used my debit card number to buy electronics online for $750.00. Please block card and initiate chargeback.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2862,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $320.50 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2054,My wallet was stolen in London and thief made $150.00 in contactless purchases before I could lock the mobile app.,Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3144,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2056,"Someone used my debit card number to buy electronics online for $1,200.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-3198,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Banking & FinTech,Technical Anomaly / Outlier
+BANK-2840,Payoff quote request for vehicle loan account TXN-989561 has been ignored for 1 week.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2861,Payoff quote request for vehicle loan account TXN-295937 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2955,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2875,"Unfair late payment penalty of $4,800.00 assessed on mortgage when payment was submitted before the 15th grace period.",Banking & FinTech,Loan & Mortgage Processing
+BANK-2725,Submitted auto loan refinancing paperwork 24 hours ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2959,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2732,Mortgage escrow calculation is totally incorrect! You increased my monthly payment by $750.00 without justification.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3031,Cannot add debit card to Apple Pay / Google Wallet. Bank system says verification unavailable.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2641,"Sent international wire transfer of $750.00 24 hours ago to overseas supplier, funds still not credited!",Banking & FinTech,Wire Transfers & ACH Delays
+BANK-2905,Payoff quote request for vehicle loan account TXN-677637 has been ignored for 3 business days.,Banking & FinTech,Loan & Mortgage Processing
+BANK-3078,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2283,Requested $85.00 cash withdrawal at ATM; machine only gave me $40 but debited the full $85.00 from my balance.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-2196,"Someone used my debit card number to buy electronics online for $4,800.00. Please block card and initiate chargeback.",Banking & FinTech,Credit Card Fraud & Unauthorized Charges
+BANK-2894,Submitted auto loan refinancing paperwork 5 days ago. Loan officer never answers emails or phone calls.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2769,Student loan interest capitalization was calculated at incorrect rates following repayment plan change.,Banking & FinTech,Loan & Mortgage Processing
+BANK-2375,ATM terminal timed out during cash deposit. The machine took my $750.00 envelope without printing a receipt.,Banking & FinTech,ATM & Cash Withdrawal Failures
+BANK-3117,Locked out of online banking because SMS OTP verification codes are not arriving on my registered mobile number.,Banking & FinTech,Mobile Banking & Account Access
+BANK-2944,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access
+BANK-3160,Mobile banking app keeps giving error 403 when trying to log in. Face ID and password both fail.,Banking & FinTech,Mobile Banking & Account Access

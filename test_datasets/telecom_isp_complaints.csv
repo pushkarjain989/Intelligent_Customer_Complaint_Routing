@@ -1,0 +1,1201 @@
+complaint_id,text,domain,category
+TEL-3667,"Cancelled service 1 week ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4160,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3156,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-434918 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3886,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3234,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3558,"Cancelled service 5 days ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3441,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4000,"Returned the old modem via UPS with tracking receipt, yet you billed me $420.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3546,Mystery charge of $340.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3447,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3528,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3681,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-543234.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3354,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3540,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3346,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3908,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3412,Zero 5G cellular coverage inside my house in Chicago. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4108,"Returned the old modem via UPS with tracking receipt, yet you billed me $340.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4066,"Returned the old modem via UPS with tracking receipt, yet you billed me $250.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3533,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3319,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3810,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3405,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4026,"Returned the old modem via UPS with tracking receipt, yet you billed me $185.50 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3431,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3931,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3759,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4103,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3768,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3210,Complete fiber internet blackout in San Jose neighborhood for the past 24 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3875,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3766,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4148,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3612,Charged $185.50 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4065,Broadband technician failed to show up for scheduled appointment window in Austin. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3719,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3230,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-339834 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3835,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3819,Porting request TKT-761310 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3724,Porting request TKT-353063 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3247,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4152,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3765,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3998,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3550,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3701,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3197,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3407,Zero 5G cellular coverage inside my house in Orlando. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3895,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3258,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3827,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3786,Porting request TKT-402244 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3128,Complete fiber internet blackout in Chicago neighborhood for the past 1 week! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3306,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3585,Charged $185.50 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3695,"Cancelled service 24 hours ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3422,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3753,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3878,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3249,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3205,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-935998 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3309,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3126,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3594,"Cancelled service 5 days ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4120,Broadband technician failed to show up for scheduled appointment window in San Jose. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3086,"Paying $120.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4015,"Returned the old modem via UPS with tracking receipt, yet you billed me $250.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3642,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-860017.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3927,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3022,"Paying $185.50 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3162,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3577,Charged $89.99 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4189,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3656,"Cancelled service 3 days ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3225,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3919,Transferred my phone number from competitor 5 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3718,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3485,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3443,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3160,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3389,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3308,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3555,"Cancelled service 5 days ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3961,"Returned the old modem via UPS with tracking receipt, yet you billed me $340.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3899,Porting request TKT-507923 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3865,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3674,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3032,Complete fiber internet blackout in Denver neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3726,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4194,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3734,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4181,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3364,Zero 5G cellular coverage inside my house in Austin. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3617,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3722,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3014,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3977,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3096,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4197,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3075,Complete fiber internet blackout in Dallas neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4190,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3845,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3039,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-651553 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3769,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3633,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3728,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3337,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3938,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3708,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4127,Set-top TV box remote control stopped pairing with television receiver TKT-409904.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3440,Zero 5G cellular coverage inside my house in Denver. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3498,Mystery charge of $340.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3904,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3582,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-502803.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3017,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3823,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3264,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3067,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3557,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3503,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-480570.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3871,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3174,Complete fiber internet blackout in Orlando neighborhood for the past 24 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3019,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3704,Mystery charge of $185.50 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3525,"Cancelled service 5 days ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3725,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3615,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4106,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3323,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3112,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-985174 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3874,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3496,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3325,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3692,"Cancelled service 48 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3798,Porting request TKT-100601 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4037,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3682,"Cancelled service 5 days ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3052,Complete fiber internet blackout in Orlando neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3430,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3262,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3543,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-183422.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3604,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-246707.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4036,Broadband technician failed to show up for scheduled appointment window in Austin. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4078,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3517,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3161,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4088,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3581,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3355,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3282,Zero 5G cellular coverage inside my house in Dallas. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3508,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3911,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3751,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3694,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3930,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3737,Porting request TKT-941214 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3477,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3936,Physical SIM card replacement ordered 1 week ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3343,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3863,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3967,Broadband technician failed to show up for scheduled appointment window in Austin. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4077,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4169,Broadband technician failed to show up for scheduled appointment window in San Jose. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4105,Broadband technician failed to show up for scheduled appointment window in Chicago. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3455,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4156,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4102,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3277,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3576,"Cancelled service 48 hours ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3322,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3236,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4143,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3279,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3618,Shocked to see a $340.00 bill this month when my contracted plan rate is only $60! Account TKT-709834.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3251,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4053,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3050,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3706,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3976,"Returned the old modem via UPS with tracking receipt, yet you billed me $185.50 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4166,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4135,"Returned the old modem via UPS with tracking receipt, yet you billed me $420.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3087,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-931377 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3601,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3669,"Cancelled service 48 hours ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4196,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3037,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3317,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3114,Complete fiber internet blackout in San Jose neighborhood for the past 24 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3093,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3687,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3598,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-154970.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3792,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3280,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3999,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3748,Transferred my phone number from competitor 5 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3010,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-648668 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3995,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3239,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3488,"Cancelled service 1 week ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4139,Broadband technician failed to show up for scheduled appointment window in Chicago. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3023,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3926,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3762,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3714,Porting request TKT-796292 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4064,Broadband technician failed to show up for scheduled appointment window in Chicago. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3025,"Paying $120.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3761,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3743,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3969,Broadband technician failed to show up for scheduled appointment window in San Jose. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4180,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-4174,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3399,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3368,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3360,Zero 5G cellular coverage inside my house in Denver. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3009,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-744979 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3283,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3986,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4001,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3673,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-132608.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3506,Charged $185.50 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3196,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3015,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3771,Porting request TKT-328514 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3982,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3530,"Cancelled service 24 hours ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3637,Shocked to see a $340.00 bill this month when my contracted plan rate is only $60! Account TKT-485928.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3997,Broadband technician failed to show up for scheduled appointment window in Seattle. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3289,Zero 5G cellular coverage inside my house in Austin. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3415,Zero 5G cellular coverage inside my house in Dallas. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4144,"Returned the old modem via UPS with tracking receipt, yet you billed me $185.50 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3684,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3035,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3519,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-613392.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3646,"Cancelled service 5 days ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3898,Physical SIM card replacement ordered 1 week ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3707,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3260,Zero 5G cellular coverage inside my house in Seattle. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3044,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3773,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3287,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3297,Zero 5G cellular coverage inside my house in Seattle. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3095,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3644,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3975,Broadband technician failed to show up for scheduled appointment window in Austin. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3173,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-267003 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3151,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-683469 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4043,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3256,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3263,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3744,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4024,Set-top TV box remote control stopped pairing with television receiver TKT-198080.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3507,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3390,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3988,Set-top TV box remote control stopped pairing with television receiver TKT-243650.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3665,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3231,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-252029 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3321,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3861,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4022,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3851,Porting request TKT-727029 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4134,"Returned the old modem via UPS with tracking receipt, yet you billed me $340.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3288,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4059,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3672,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3367,Zero 5G cellular coverage inside my house in Seattle. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3113,"Paying $420.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3003,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3964,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4101,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4042,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3387,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3616,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-142079.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3520,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3910,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3609,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-953922.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3304,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3116,Complete fiber internet blackout in Dallas neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3211,Complete fiber internet blackout in Chicago neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4038,Set-top TV box remote control stopped pairing with television receiver TKT-666245.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3218,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-776624 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3379,Zero 5G cellular coverage inside my house in Denver. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3980,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3943,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3505,Mystery charge of $185.50 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3462,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4114,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3953,Set-top TV box remote control stopped pairing with television receiver TKT-300450.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3561,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3352,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3732,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3245,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3082,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3668,"Cancelled service 24 hours ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3063,"Paying $185.50 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3216,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-891213 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3409,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4100,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4167,Broadband technician failed to show up for scheduled appointment window in Austin. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3552,"Cancelled service 24 hours ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3079,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3831,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3690,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3013,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3678,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3397,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3157,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-626704 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3490,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3579,Mystery charge of $420.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3276,Zero 5G cellular coverage inside my house in Orlando. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3342,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3281,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3183,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3217,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3097,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-396951 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3548,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3072,Complete fiber internet blackout in Denver neighborhood for the past 1 week! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3418,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3232,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-969512 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3117,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3049,Complete fiber internet blackout in Austin neighborhood for the past 1 week! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3862,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3254,Zero 5G cellular coverage inside my house in Orlando. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3298,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3336,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3789,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3456,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3941,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4057,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3000,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3627,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3666,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4080,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4068,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3848,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3302,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3632,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3065,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-831442 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4161,"Returned the old modem via UPS with tracking receipt, yet you billed me $340.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4119,Broadband technician failed to show up for scheduled appointment window in San Jose. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3781,Porting request TKT-196864 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3359,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3068,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3167,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3363,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3439,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4128,"Returned the old modem via UPS with tracking receipt, yet you billed me $185.50 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3840,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3410,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3657,"Cancelled service 1 week ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3320,Zero 5G cellular coverage inside my house in Chicago. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3202,Complete fiber internet blackout in San Jose neighborhood for the past 24 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3349,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3285,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3825,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3625,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-143683.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3842,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3051,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-843764 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3869,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3144,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3465,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3461,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3636,Mystery charge of $120.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3493,"Cancelled service 48 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3990,Set-top TV box remote control stopped pairing with television receiver TKT-562716.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3599,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3233,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3091,Complete fiber internet blackout in Denver neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3663,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3897,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4010,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3420,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4076,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3676,"Cancelled service 1 week ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4003,Broadband technician failed to show up for scheduled appointment window in Seattle. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3445,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4004,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3150,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-692332 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3018,Complete fiber internet blackout in Austin neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3860,Physical SIM card replacement ordered 1 week ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4086,Set-top TV box remote control stopped pairing with television receiver TKT-108789.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3318,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3783,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4021,Set-top TV box remote control stopped pairing with television receiver TKT-288526.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3565,"Cancelled service 3 days ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3270,Zero 5G cellular coverage inside my house in Dallas. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3380,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4028,"Returned the old modem via UPS with tracking receipt, yet you billed me $420.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4093,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3370,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4087,Broadband technician failed to show up for scheduled appointment window in Chicago. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3932,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3841,Porting request TKT-586903 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3807,Porting request TKT-571796 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3316,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4187,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3021,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3913,Porting request TKT-458719 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3066,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4058,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3206,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3195,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3057,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-588900 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3442,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3521,"Cancelled service 24 hours ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3344,Zero 5G cellular coverage inside my house in Austin. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4084,Broadband technician failed to show up for scheduled appointment window in Philadelphia. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3394,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3971,"Returned the old modem via UPS with tracking receipt, yet you billed me $185.50 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3892,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3027,Complete fiber internet blackout in Dallas neighborhood for the past 24 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3547,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3796,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3385,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3238,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4170,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3611,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-776078.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3640,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3434,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3664,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-367090.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4172,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4032,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3909,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3424,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3856,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3587,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3730,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3650,"Cancelled service 24 hours ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3606,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3736,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3058,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3756,Porting request TKT-124069 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3454,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3255,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3303,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3939,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3620,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3042,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-772844 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4116,Broadband technician failed to show up for scheduled appointment window in Philadelphia. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3212,Complete fiber internet blackout in Chicago neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3463,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3784,Porting request TKT-529354 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3529,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3592,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3901,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3705,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-125280.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3098,Complete fiber internet blackout in Dallas neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3261,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3376,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3469,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3818,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3535,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-263833.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3244,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3101,"Paying $120.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3155,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3608,"Cancelled service 5 days ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3012,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-883039 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3544,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4096,Set-top TV box remote control stopped pairing with television receiver TKT-406439.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4040,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3984,"Returned the old modem via UPS with tracking receipt, yet you billed me $185.50 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3688,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3900,Physical SIM card replacement ordered 48 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3085,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3295,Zero 5G cellular coverage inside my house in Denver. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3329,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4047,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3949,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3011,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3047,"Paying $340.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3444,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3801,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3292,Zero 5G cellular coverage inside my house in Dallas. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4052,Set-top TV box remote control stopped pairing with television receiver TKT-916435.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3832,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3107,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-819391 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3083,Complete fiber internet blackout in Austin neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3446,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3795,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3623,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3777,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3740,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3991,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3164,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4034,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3804,Transferred my phone number from competitor 5 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3947,Set-top TV box remote control stopped pairing with television receiver TKT-349468.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3293,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3417,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3041,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4175,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3902,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3752,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3120,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-474221 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3154,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-287299 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3142,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4029,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4097,Set-top TV box remote control stopped pairing with television receiver TKT-600534.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3560,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-246205.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3393,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3416,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3404,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3384,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3472,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-529836.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3428,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3408,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4130,Set-top TV box remote control stopped pairing with television receiver TKT-424632.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3473,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3201,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3802,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4164,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3754,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3189,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3365,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3742,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4012,Broadband technician failed to show up for scheduled appointment window in Denver. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3357,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3448,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3515,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3476,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-998632.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3717,Porting request TKT-999516 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3271,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3045,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3876,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3680,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-368207.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3192,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3055,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-738088 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3406,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4171,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3137,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3100,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-625814 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4176,Set-top TV box remote control stopped pairing with television receiver TKT-461722.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3152,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3133,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3248,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3645,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-516849.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3957,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3588,Mystery charge of $420.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3703,"Cancelled service 24 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3593,"Cancelled service 3 days ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3891,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3509,Shocked to see a $340.00 bill this month when my contracted plan rate is only $60! Account TKT-242185.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3803,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3479,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3992,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3339,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3056,Complete fiber internet blackout in San Jose neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4195,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3683,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-597939.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3942,Porting request TKT-719555 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3178,Complete fiber internet blackout in Philadelphia neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3959,Broadband technician failed to show up for scheduled appointment window in Philadelphia. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3002,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3449,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3457,Zero 5G cellular coverage inside my house in Chicago. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3184,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-822672 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3119,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-904083 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3510,"Cancelled service 24 hours ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4090,"Returned the old modem via UPS with tracking receipt, yet you billed me $420.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3905,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3767,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3020,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3253,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3296,Zero 5G cellular coverage inside my house in Denver. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4005,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3165,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-739434 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3224,Complete fiber internet blackout in Seattle neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3778,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3697,Charged $185.50 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3500,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-925189.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4137,Set-top TV box remote control stopped pairing with television receiver TKT-331103.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3427,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3273,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4044,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3569,"Cancelled service 3 days ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3327,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3741,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3553,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3659,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4014,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3790,Porting request TKT-260137 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3170,Complete fiber internet blackout in Philadelphia neighborhood for the past 1 week! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3735,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3951,Set-top TV box remote control stopped pairing with television receiver TKT-997727.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3563,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-117185.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3993,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3879,Porting request TKT-362773 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3820,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4089,Set-top TV box remote control stopped pairing with television receiver TKT-113757.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3864,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3437,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3103,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3946,Set-top TV box remote control stopped pairing with television receiver TKT-386590.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3421,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3854,Porting request TKT-153852 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4075,Broadband technician failed to show up for scheduled appointment window in Seattle. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3894,Porting request TKT-961412 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4033,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4117,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3614,"Cancelled service 5 days ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3996,"Returned the old modem via UPS with tracking receipt, yet you billed me $420.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3029,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3994,Broadband technician failed to show up for scheduled appointment window in Chicago. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3596,"Cancelled service 48 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3578,Mystery charge of $185.50 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3222,"Paying $120.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3453,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3885,Porting request TKT-448670 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3220,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4147,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3675,"Cancelled service 5 days ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3179,Complete fiber internet blackout in Austin neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3480,"Cancelled service 48 hours ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3123,Complete fiber internet blackout in Denver neighborhood for the past 24 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3450,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3716,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4056,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3054,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-188047 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4041,"Returned the old modem via UPS with tracking receipt, yet you billed me $340.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3933,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3246,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3567,"Cancelled service 48 hours ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3391,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3866,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3523,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-236996.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3922,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3145,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4067,Broadband technician failed to show up for scheduled appointment window in Seattle. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4092,"Returned the old modem via UPS with tracking receipt, yet you billed me $340.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3584,"Cancelled service 48 hours ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3158,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3388,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3138,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-201866 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3888,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3839,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3575,"Cancelled service 24 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3371,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3965,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3912,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3475,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-690045.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3491,Mystery charge of $340.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3358,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3185,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-695833 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3826,Porting request TKT-899128 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3466,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3830,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4146,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3972,"Returned the old modem via UPS with tracking receipt, yet you billed me $420.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3482,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3169,"Paying $120.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3958,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3024,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3353,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4158,Set-top TV box remote control stopped pairing with television receiver TKT-305415.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3566,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3882,Porting request TKT-538168 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3163,Complete fiber internet blackout in Denver neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4199,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3268,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4049,Broadband technician failed to show up for scheduled appointment window in Philadelphia. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3250,Zero 5G cellular coverage inside my house in San Jose. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4074,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3092,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3008,Complete fiber internet blackout in Austin neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3386,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3060,Complete fiber internet blackout in Philadelphia neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3094,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3639,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-411919.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3312,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3641,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-599651.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4069,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3660,Charged $89.99 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3146,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3621,"Cancelled service 48 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3204,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3129,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-543054 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3064,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3194,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3989,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3929,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3556,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3857,Porting request TKT-424814 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3223,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3538,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-104027.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3071,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4110,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3760,Porting request TKT-986447 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3377,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4027,Broadband technician failed to show up for scheduled appointment window in Philadelphia. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3527,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3375,Zero 5G cellular coverage inside my house in Orlando. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3806,Porting request TKT-886758 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4129,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3838,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3423,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3733,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3299,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3451,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4151,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3459,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3433,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3940,Transferred my phone number from competitor 5 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3511,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3147,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3502,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3855,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3955,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3918,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4136,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3631,"Cancelled service 3 days ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3849,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3532,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-285710.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3291,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3310,Zero 5G cellular coverage inside my house in Dallas. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3833,Porting request TKT-805284 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3102,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3698,"Cancelled service 24 hours ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4050,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3568,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-470534.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3435,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3720,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3648,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4188,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3884,Transferred my phone number from competitor 5 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3034,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3890,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3968,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3331,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3005,"Paying $340.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3213,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3070,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3763,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3868,Porting request TKT-138585 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3118,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-364583 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4150,Broadband technician failed to show up for scheduled appointment window in Denver. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4142,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3242,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3074,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3237,Zero 5G cellular coverage inside my house in Orlando. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3662,"Cancelled service 5 days ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3600,"Cancelled service 3 days ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4155,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3654,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4046,"Returned the old modem via UPS with tracking receipt, yet you billed me $250.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3917,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4054,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3043,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-387492 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3040,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-444406 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3809,Porting request TKT-560352 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3139,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-331795 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3973,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3340,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3793,Porting request TKT-275113 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3709,Physical SIM card replacement ordered 48 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3084,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3121,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-412143 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3629,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3311,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3131,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3514,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3952,Set-top TV box remote control stopped pairing with television receiver TKT-621852.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3907,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3628,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-779299.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3729,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3843,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3873,Porting request TKT-596215 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3432,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3602,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3813,Transferred my phone number from competitor 5 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3347,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3647,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-704777.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4017,Broadband technician failed to show up for scheduled appointment window in Austin. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3782,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3685,Mystery charge of $120.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3758,Physical SIM card replacement ordered 48 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3776,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3522,"Cancelled service 24 hours ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3970,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3723,Physical SIM card replacement ordered 1 week ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3504,"Cancelled service 3 days ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3141,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4182,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3305,Zero 5G cellular coverage inside my house in Orlando. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4019,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3452,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4031,Broadband technician failed to show up for scheduled appointment window in Chicago. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3460,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3772,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3425,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3518,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4082,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3915,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4149,Set-top TV box remote control stopped pairing with television receiver TKT-934963.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3426,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3438,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3828,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3570,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3338,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3140,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3166,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3411,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4112,Set-top TV box remote control stopped pairing with television receiver TKT-292312.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3785,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3571,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-422969.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3539,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-851807.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3526,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3240,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3132,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4122,Set-top TV box remote control stopped pairing with television receiver TKT-841917.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3278,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3006,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3489,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3775,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3134,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3750,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3619,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4030,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3574,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4192,Cosmic ray muon scintillation event disrupted CMOS sensor shift register.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-4162,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3605,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3712,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3124,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3541,"Cancelled service 48 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3630,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3392,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3467,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3181,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-248845 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4153,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3794,Porting request TKT-353677 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3036,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-996922 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3089,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3811,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3788,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4183,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3111,Complete fiber internet blackout in San Jose neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3821,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3658,"Cancelled service 1 week ago, yet auto-pay deducted another $185.50 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3713,Porting request TKT-435050 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4177,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3272,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3635,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-998803.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3914,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4145,Broadband technician failed to show up for scheduled appointment window in Orlando. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4091,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4121,Broadband technician failed to show up for scheduled appointment window in San Jose. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3436,Zero 5G cellular coverage inside my house in Seattle. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3817,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4140,Set-top TV box remote control stopped pairing with television receiver TKT-739638.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3099,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3537,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3745,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3487,"Cancelled service 3 days ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3429,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3837,Porting request TKT-337186 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3219,"Paying $420.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3634,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3924,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3177,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3746,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4184,Piezoelectric actuator impedance resonance mismatch in sub-micron vacuum chamber.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3109,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3207,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-195797 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3960,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3847,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3334,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3110,Complete fiber internet blackout in Austin neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3464,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4131,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3333,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3090,Complete fiber internet blackout in Seattle neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3314,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4002,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3215,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3372,Zero 5G cellular coverage inside my house in Austin. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3858,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4198,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3038,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-287700 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3812,Porting request TKT-771112 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3983,Set-top TV box remote control stopped pairing with television receiver TKT-692671.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3241,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3595,"Cancelled service 3 days ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3341,Zero 5G cellular coverage inside my house in Chicago. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3721,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3853,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4168,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3203,Complete fiber internet blackout in Chicago neighborhood for the past 1 week! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3048,Complete fiber internet blackout in Dallas neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3966,"Returned the old modem via UPS with tracking receipt, yet you billed me $340.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3495,"Cancelled service 48 hours ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3613,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3492,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-669197.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3115,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3852,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3076,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3590,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-871222.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3906,Porting request TKT-227339 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3524,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4079,Broadband technician failed to show up for scheduled appointment window in Philadelphia. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3122,Complete fiber internet blackout in Seattle neighborhood for the past 5 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3638,Mystery charge of $420.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3643,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3313,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3198,"Paying $185.50 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3007,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3229,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3267,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3844,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4125,Set-top TV box remote control stopped pairing with television receiver TKT-754076.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3962,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3791,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3499,Mystery charge of $420.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3774,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3328,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3624,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3016,Complete fiber internet blackout in Philadelphia neighborhood for the past 1 week! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3332,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3572,Mystery charge of $89.99 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3870,Porting request TKT-857878 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3395,Zero 5G cellular coverage inside my house in Denver. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3269,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3531,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-124125.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3501,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-155315.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3661,Mystery charge of $185.50 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3026,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3374,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3934,Porting request TKT-704411 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3981,Broadband technician failed to show up for scheduled appointment window in Orlando. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3727,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3573,Shocked to see a $250.00 bill this month when my contracted plan rate is only $60! Account TKT-728218.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4193,Hyper-frequency Doppler shift on waveguide reflector plate alpha.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3516,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-471942.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3881,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3228,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3104,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-426203 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3378,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3702,"Cancelled service 3 days ago, yet auto-pay deducted another $89.99 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3800,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3622,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4109,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3950,"Returned the old modem via UPS with tracking receipt, yet you billed me $185.50 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4132,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3711,Transferred my phone number from competitor 24 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3889,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3226,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-739135 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3603,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-857886.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3413,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3175,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3985,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4020,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3398,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4165,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4025,Set-top TV box remote control stopped pairing with television receiver TKT-242795.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3182,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-201843 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3494,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3954,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3739,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3345,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4154,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3987,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3191,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-767693 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3335,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4071,Set-top TV box remote control stopped pairing with television receiver TKT-703675.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4163,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3700,"Cancelled service 5 days ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3081,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-730133 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4081,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3168,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3414,Zero 5G cellular coverage inside my house in Chicago. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4179,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3105,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-542223 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4007,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3586,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3945,Set-top TV box remote control stopped pairing with television receiver TKT-350176.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3923,Porting request TKT-596427 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3559,"Cancelled service 48 hours ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3199,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-738206 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4186,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-4138,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3227,"Paying $185.50 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4085,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3850,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3400,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3808,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3275,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3867,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3589,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3757,Porting request TKT-944848 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3545,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-837010.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3699,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3136,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3974,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3649,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-803848.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3252,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3653,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3190,"Paying $340.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3301,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3626,Charged $420.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3834,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3846,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3361,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3143,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-962588 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3200,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3403,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3607,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-616377.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3471,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3402,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3536,Mystery charge of $120.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3956,Broadband technician failed to show up for scheduled appointment window in Orlando. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3186,"Paying $185.50 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3257,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3274,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3383,Zero 5G cellular coverage inside my house in Philadelphia. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4159,"Returned the old modem via UPS with tracking receipt, yet you billed me $420.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-4123,Set-top TV box remote control stopped pairing with television receiver TKT-290608.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3764,Porting request TKT-343459 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3797,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3180,Complete fiber internet blackout in San Jose neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3554,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3921,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3286,Zero 5G cellular coverage inside my house in Dallas. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3171,"Paying $185.50 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3127,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-490904 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3689,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3062,Complete fiber internet blackout in Denver neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4072,Broadband technician failed to show up for scheduled appointment window in Denver. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4099,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3679,"Cancelled service 5 days ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3780,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4062,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3738,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3061,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3551,Mystery charge of $120.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3106,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3755,Physical SIM card replacement ordered 3 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3486,"Cancelled service 5 days ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3381,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3816,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3001,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3651,"Cancelled service 5 days ago, yet auto-pay deducted another $420.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3078,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4011,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4060,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3655,Mystery charge of $250.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3265,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3315,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4018,Set-top TV box remote control stopped pairing with television receiver TKT-587449.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4035,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3893,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4126,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3787,Porting request TKT-347721 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4008,Broadband technician failed to show up for scheduled appointment window in Philadelphia. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4013,Set-top TV box remote control stopped pairing with television receiver TKT-848392.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3944,Broadband technician failed to show up for scheduled appointment window in Denver. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3130,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-856646 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3159,"Paying $120.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3779,Porting request TKT-995113 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3562,Charged $185.50 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4073,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3053,Complete fiber internet blackout in Denver neighborhood for the past 48 hours! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4178,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3401,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3978,"Returned the old modem via UPS with tracking receipt, yet you billed me $120.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3799,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4111,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3822,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4095,Set-top TV box remote control stopped pairing with television receiver TKT-770342.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3366,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3731,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3187,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-690913 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3903,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3073,"Paying $250.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3937,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4083,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4191,Bilateral matrix orbital decay vector calibration mismatch on terminal gyro compass.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3710,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3580,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4124,Set-top TV box remote control stopped pairing with television receiver TKT-946541.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3135,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4048,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3691,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3610,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-899816.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3266,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3597,Charged $120.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4039,Set-top TV box remote control stopped pairing with television receiver TKT-905292.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3513,Shocked to see a $185.50 bill this month when my contracted plan rate is only $60! Account TKT-487939.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3887,Transferred my phone number from competitor 1 week ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3470,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3069,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3677,"Cancelled service 48 hours ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3077,Complete fiber internet blackout in Austin neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3259,Zero 5G cellular coverage inside my house in Denver. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3324,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3033,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-845902 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3591,"Cancelled service 24 hours ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3880,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3481,Mystery charge of $420.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3549,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4185,Sub-quantum lattice entanglement across peripheral nano-assemblies detected in optical matrix 0x9F.,Telecom & ISP,Technical Anomaly / Outlier
+TEL-3080,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3935,Transferred my phone number from competitor 3 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3814,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3670,Shocked to see a $420.00 bill this month when my contracted plan rate is only $60! Account TKT-619257.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3284,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3148,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-887331 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3356,Zero 5G cellular coverage inside my house in Chicago. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4070,"Returned the old modem via UPS with tracking receipt, yet you billed me $250.00 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3149,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3307,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4133,Set-top TV box remote control stopped pairing with television receiver TKT-157433.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3542,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3214,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3916,Porting request TKT-299380 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4157,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3686,Mystery charge of $185.50 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3030,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3749,Transferred my phone number from competitor 48 hours ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3805,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3176,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3326,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3671,Mystery charge of $185.50 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3715,Porting request TKT-203858 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3458,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3369,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3350,Zero 5G cellular coverage inside my house in Austin. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3172,"Paying $89.99 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3294,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4107,Broadband technician failed to show up for scheduled appointment window in San Jose. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3770,Transferred my phone number from competitor 5 days ago; old carrier disconnected but your eSIM won't activate!,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3004,Complete fiber internet blackout in Chicago neighborhood for the past 1 week! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3747,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3031,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3300,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4061,Set-top TV box remote control stopped pairing with television receiver TKT-776526.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3829,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3483,Shocked to see a $120.00 bill this month when my contracted plan rate is only $60! Account TKT-552708.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4016,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4141,Set-top TV box remote control stopped pairing with television receiver TKT-943668.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3125,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-580280 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3979,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3928,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3243,Zero 5G cellular coverage inside my house in Austin. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3824,Physical SIM card replacement ordered 1 week ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3877,Porting request TKT-955408 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4115,Broadband technician failed to show up for scheduled appointment window in Austin. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-4009,Broadband technician failed to show up for scheduled appointment window in Dallas. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3046,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-130237 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3920,Physical SIM card replacement ordered 24 hours ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3468,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3693,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3059,Complete fiber internet blackout in Dallas neighborhood for the past 3 days! Router power light is red.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3836,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3652,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-400434.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4113,"Returned the old modem via UPS with tracking receipt, yet you billed me $89.99 unreturned equipment fee!",Telecom & ISP,Hardware & Technician Appointments
+TEL-3362,Text messages and SMS verification codes fail to send or receive on cellular network.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4055,Set-top TV box remote control stopped pairing with television receiver TKT-874379.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3235,"Paying $420.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3497,"Cancelled service 48 hours ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4104,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3474,Charged $340.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3872,SIM card swap protection failed! I received an email saying my number was transferred without my authorization.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3478,"Cancelled service 1 week ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3896,Physical SIM card replacement ordered 1 week ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4173,Set-top TV box remote control stopped pairing with television receiver TKT-271319.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3696,Charged $250.00 for international data roaming while my phone was connected to airport Wi-Fi!,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-4118,Set-top TV box remote control stopped pairing with television receiver TKT-872442.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3351,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3859,Porting request TKT-509850 stuck in carrier limbo. My phone number is completely unreachable for business.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-4063,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3534,Shocked to see a $89.99 bill this month when my contracted plan rate is only $60! Account TKT-858232.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3396,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3209,"Paying $340.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3373,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4098,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4006,Broadband technician failed to show up for scheduled appointment window in San Jose. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3188,"Paying $420.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3330,Outgoing phone calls fail with call failed error code 18 on iPhone 15 Pro Max.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3028,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3153,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3382,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3348,Zero 5G cellular coverage inside my house in San Jose. Emergency calls only and calls drop every 2 minutes.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-4051,Set-top TV box remote control stopped pairing with television receiver TKT-685380.,Telecom & ISP,Hardware & Technician Appointments
+TEL-4023,Set-top TV box remote control stopped pairing with television receiver TKT-679104.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3948,Set-top TV box remote control stopped pairing with television receiver TKT-799276.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3290,Voicemail notifications arrive 3 days late. Missed urgent hospital call due to network silence.,Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3221,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-634299 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4094,Broadband technician failed to show up for scheduled appointment window in Chicago. Waited 5 hours for nothing!,Telecom & ISP,Hardware & Technician Appointments
+TEL-3963,Field technician replaced the external drop cable but left exposed fiber wiring hanging across my front lawn.,Telecom & ISP,Hardware & Technician Appointments
+TEL-3815,Physical SIM card replacement ordered 5 days ago has not arrived in mail.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3208,Massive latency spike and ping of 450ms when playing online games or streaming 4K video.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3512,"Cancelled service 1 week ago, yet auto-pay deducted another $250.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3419,"Ever since the recent tower upgrade in area code 90210, mobile data speed is slower than 3G.",Telecom & ISP,Cellular 5G Signal & Dropped Calls
+TEL-3925,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3484,"Cancelled service 1 week ago, yet auto-pay deducted another $340.00 from my checking account.",Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3108,"Paying $420.00 monthly for 1 Gbps gigabit fiber, but speed test only shows 12 Mbps download and high packet loss.",Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3583,Paper billing fee and regulatory recovery fee increased without prior 30-day notice.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3564,Mystery charge of $340.00 for equipment rental fee when I bought and supplied my own DOCSIS router.,Telecom & ISP,Billing Shock & Hidden Charges
+TEL-3883,QR code for eSIM activation returned invalid profile error. Stranded with no cellular reception.,Telecom & ISP,SIM Porting & eSIM Activation
+TEL-3193,Internet drops connection every 15 minutes during Zoom work calls. Technician ticket TKT-856169 still unresolved.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-3088,Fiber ONT box LOS red light blinking constantly. Work from home is impossible without connection.,Telecom & ISP,Broadband Outage & Slow Speed
+TEL-4045,Wi-Fi gateway router overheats and reboots every hour. Unit is hot to the touch and smells of burning plastic.,Telecom & ISP,Hardware & Technician Appointments
